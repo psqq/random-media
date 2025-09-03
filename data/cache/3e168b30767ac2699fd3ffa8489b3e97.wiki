@@ -1,0 +1,206 @@
+{{shortcut2|COM:QIC}}
+{| class="messagebox small-talk"
+| style="text-align: center;" | '''''↓ [[#Nominations|<translate><!--T:1--> Skip to nominations</translate>]] ↓'''''
+|}
+
+<languages/>
+
+[[File:Quality images logo.svg|{{#ifeq:{{#dir:{{PAGELANGUAGE}}}}|rtl|left|right}}]]
+
+<translate><!--T:2--> These are the candidates for becoming [[<tvar name="1">Special:MyLanguage/Commons:Quality images</tvar>|quality images]].</translate> <translate><!--T:3--> This is not the same thing as [[Commons:featured pictures|featured pictures]].</translate> <translate><!--T:4--> If you want informal feedback on your photos, please ask at [[Commons:Photography critiques]].</translate>
+
+<translate>
+== Purpose == <!--T:5-->
+</translate>
+<translate><!--T:6--> The purpose of ''quality images'' is to encourage the people that are the foundation of Commons, the individual users who provide the unique images that expand this collection.</translate> <translate><!--T:7--> While ''featured pictures'' identifies the absolute best of all the images loaded into Commons, ''Quality images'' sets out to identify and encourage users’ efforts in providing quality images to Commons.</translate>
+<translate><!--T:8--> Additionally, quality images should be a place to refer other users to when explaining methods for improving an image.</translate>
+
+<translate>
+== Guidelines== <!--T:9-->
+
+<!--T:10-->
+All nominated images should be the work of Commons users.
+
+=== For nominators=== <!--T:11-->
+
+<!--T:12-->
+Below are the general guidelines for Quality images; more detailed criteria are available at [[Commons:Image guidelines|Image guidelines]].
+
+===== Image page requirements ===== <!--T:13-->
+</translate>
+# <translate><!--T:14--> Copyright status. Quality image candidates have to be uploaded to Commons under a suitable license. The full license requirements are at [[Commons:Copyright tags]].</translate>
+# <translate><!--T:15--> Images should comply with all Commons policies and practices, including [[Commons:Photographs of identifiable people]].</translate>
+# <translate><!--T:16--> Quality images shall have a [[Commons:File naming|meaningful file name]], be [[Commons:Categorization|properly categorized]] and have an accurate description on the file page in one or more languages. It is preferred, but not mandatory, to include an English description.</translate>
+# <translate><!--T:17--> No advertisements or signatures in image. Copyright and authorship information of quality images should be located on the image page and may be in the image metadata, but should not interfere with image contents.</translate>
+
+<translate>
+===== Creator ===== <!--T:18-->
+</translate>
+:::<small><translate><!--T:89--> Proposed wording changes to specifically exclude AI generate media from being eligable for QI [[<tvar name="1">Commons_talk:Quality_images_candidates#Creator_section_proposal_for_rewording</tvar>|see discussion]]</translate></small>
+<translate><!--T:19--> Pictures must have been created by a Wikimedian in order to be eligible for QI status. This means that pictures from, for example, Flickr are ineligible unless the photographer is a Commons user. (Note that Featured Pictures do not have this requirement.)</translate> <translate><!--T:20--> Photographical reproductions of two-dimensional works of art, made by Wikimedians, are eligible ([[Commons:PD-art#When should the PD-Art tag not be used?|and should be licensed PD-old according to the Commons guidelines]]).</translate> <translate><!--T:21--> If an image is promoted despite not being the creation of a Wikimedian, the QI status should be removed as soon as the mistake is detected.</translate>
+
+<translate>
+===== Technical requirements ===== <!--T:22-->
+
+<!--T:23-->
+More detailed criteria are available at [[Commons:Image guidelines]].
+
+===== Resolution===== <!--T:24-->
+
+<!--T:25-->
+Bitmapped images (JPEG, PNG, GIF, TIFF) should normally have at least 2 megapixels; reviewers may demand more for subjects that can be photographed easily. This is because images on Commons may be printed, viewed on monitors with very high resolution, or used in future media. This rule excludes vector graphics ([[Help:SVG|SVG]]) or computer-generated images that have been constructed with [[:en:Comparison of free and open-source software licenses|freely-licensed or open software]] programs as noted in the image's description.
+
+===== Image quality===== <!--T:27-->
+
+<!--T:28-->
+Digital images can suffer various problems originating in image capture and processing, such as preventable noise, problems with JPEG compression, lack of information in shadow or highlight areas, or problems with capture of colors. All these issues should be handled correctly.
+
+===== Composition and lighting===== <!--T:29-->
+
+<!--T:30-->
+The arrangement of the subject within the image should contribute to the image. Foreground and background objects should not be distracting. Lighting and focus also contribute to the overall result; the subject should be sharp, uncluttered, and well-exposed.
+
+===== Value===== <!--T:31-->
+
+<!--T:32-->
+Our main goal is to encourage quality images being contributed to Wikicommons, valuable for Wikimedia and other projects.
+
+==== How to nominate==== <!--T:33-->
+
+<!--T:34-->
+Simply add a line of this form at the top of [[Commons:Quality images candidates/candidate list]] Nominations section:
+</translate>
+
+<pre>
+<translate nowrap><!--T:35-->
+<nowiki>File:ImageNameHere.jpg|{{/Nomination|Very short description  --~~~~ |}}</nowiki></translate>
+</pre>
+<translate>
+<!--T:36-->
+The description shouldn't be more than a few words, and please leave a blank line between your new entry and any existing entries.
+
+<!--T:37-->
+If you are nominating an image by another Wikimedian, include their username in the description as below:
+</translate>
+
+<pre>
+<translate nowrap><!--T:38-->
+<nowiki>File:ImageNameHere.jpg|{{/Nomination|Very short description (by [[User:USERNAME|USERNAME]]) --~~~~ |}}</nowiki></translate>
+</pre>
+
+<translate><!--T:39--> Note: there is a [[<tvar name="pref">Special:Preferences#mw-prefsection-gadgets</tvar>|Gadget]], ''QInominator'', which makes nominations quicker.</translate> <translate><!--T:40--> It adds a small "Nominate this image for QI" link at the top of every file page. Clicking the link adds the image to a list of potential candidates. When this list is completed, edit [[Commons:Quality images candidates/candidate list]]. At the top of the edit window a green bar will be displayed. Clicking the bar inserts all potential candidates into the edit window.</translate>
+
+<translate>
+====Number of nominations==== <!--T:41-->
+
+<!--T:42-->
+No more than five images per day can be added by a single nominator.
+
+<!--T:87-->
+''Note: If possible, for every picture you nominate, please review at least one of the other candidates.''
+
+===Evaluating images=== <!--T:43-->
+</translate>
+
+<div style="font-weight: bold; text-align: center; font-size: 12pt; padding: 8pt; color: #990000; line-height: 2.3em;"><translate><!--T:44-->
+Any registered user whose accounts have at least 10 days and 50 edits, other than the author and the nominator, can review a nomination. For an easier evaluation you can activate the gadget [[Help:Gadget-QICvote|QICvote]]</translate></div>
+<translate>
+<!--T:45-->
+When evaluating images the reviewer should consider the same [[Commons:Image guidelines|guidelines]] as the nominator.
+
+==== How to review==== <!--T:46-->
+</translate>
+[[File:How to update the status (quality images).svg|frameless|<translate><!--T:47--> How to update the status</translate>]]
+
+<translate><!--T:48-->
+Carefully review the image. Open it in full resolution, and check if the [[Commons:Image guidelines|quality criteria]] are met.</translate>
+
+* <translate><!--T:49--> If you decide to promote the nomination, change the relevant line from</translate>
+: ''<translate><!--T:50-->
+<nowiki>File:ImageNameHere.jpg|{{/Nomination|Very short description  --~~~~ | }}</nowiki>
+to</translate>''
+: ''<translate><!--T:51--> <nowiki>File:ImageNameHere.jpg|{{/Promotion|Very short description  --Nominators signature |Why you liked it. --~~~~}}</nowiki></translate>''
+<translate><!--T:52-->
+In other words, change the template from ''/Nomination'' to ''/Promotion'' and add your signature, possibly with some short comment.</translate>
+
+* <translate><!--T:53--> If you decide to decline the nomination, change the relevant line from</translate>
+: ''<translate><!--T:54-->
+<nowiki>File:ImageNameHere.jpg|{{/Nomination|Very short description  --~~~~ | }}</nowiki>
+to</translate>''
+: ''<translate><!--T:55--> <nowiki>File:ImageNameHere.jpg|{{/Decline|Very short description  --Nominators signature |Why you didn't like it. --~~~~}}</nowiki></translate>''
+<translate><!--T:56--> In other words, change the template from ''/Nomination'' to ''/Decline'' and add your signature, possibly with a statement of the criteria under which the image failed (you can use titles of section from the guidelines).</translate> <translate><!--T:57--> If there are many problems, please note only 2 or 3 of the most severe, or add ''multiple problems''. When declining a nomination please do explain the reasons on the nominator’s talk page – as a rule, be nice and encouraging! In the message you should give a more detailed explanation of your decision.</translate>
+
+<translate>
+<!--T:58-->
+''Note: Please evaluate the oldest images first.''
+
+===Grace period and promotion=== <!--T:59-->
+
+<!--T:60-->
+If there are no objections within a period of 2 days (exactly 48 hours) from the first review, the image becomes promoted or fails according to the review it received. If you have objection, just change its status to ''Discuss'' and it will be moved to the ''Consensual review'' section.
+
+==== How to execute decision==== <!--T:61-->
+
+<!--T:62-->
+[[<tvar name="user">User:QICbot</tvar>|QICbot]] automatically handles this 2 days after a decision has been made, and promoted images are cached in [[Commons:Quality Images/Recently promoted]] awaiting categorization before their automatic insertion in to appropriate [[<tvar name="q">Special:MyLanguage/Commons:Quality Images</tvar>|Quality images]] pages.
+
+<!--T:63-->
+If you believe that you have identified an exceptional image that is worthy of Featured picture status then consider also nominating the image at [[Commons:Featured picture candidates]].
+</translate>
+
+<div class="mw-collapsible mw-collapsed">
+<div><translate><!--T:64--> Manual instructions</translate> <small><translate><!--T:65--> (open only in cases of emergency)</translate></small></div>
+<div class="mw-collapsible-content">
+<translate><!--T:66--> If promoted,</translate>
+# <translate><!--T:67--> Add the image to appropriate group or groups of [[Commons:Quality Images|Quality images]] page. The image also needs to be added to the associated sub pages, only 3–4 of the newest images should be displayed on the main page.</translate>
+# <translate><!--T:68--> Add {{tl|QualityImage}} template to the bottom of image description page.</translate>
+# <translate><!--T:69--> Move the line with the image nomination and review to [[Commons:Quality images candidates/Archives <tvar name="d">{{CURRENTMONTHNAME}} {{CURRENTYEAR}}</tvar>]].</translate>
+# <translate><!--T:70--> Add the template {{tl|QICpromoted|File:imagename.jpg}} to the user’s talk page.</translate>
+
+<translate><!--T:71--> If declined,</translate>
+# <translate><!--T:72--> move the line with the image nomination and review to [[Commons:Quality images candidates/Archives <tvar name="d2">{{CURRENTMONTHNAME}} {{CURRENTYEAR}}</tvar>]].</translate>
+</div></div>
+
+<translate><!--T:73-->
+* Images awaiting review show the nomination outlined in blue.</translate>
+<translate><!--T:74-->
+* Images the reviewer has accepted show the nomination outlined in green</translate>
+<translate><!--T:75-->
+* Images the reviewer has rejected show the nomination outlined in red</translate>
+
+<translate>
+=== Unassessed images (nomination outlined in blue)=== <!--T:76-->
+
+<!--T:77-->
+Nominated images which have not generated assessments either to promote nor to decline, or a consensus (equal opposition as support in consensual review) after 8 days on this page should be removed from this page without promotion, archived in [[Commons:Quality images candidates/Archives <tvar name="5">{{#time:F d Y||en}}</tvar>]] and [[:Category:Unassessed QI candidates]] added to the image.
+
+=== Consensual review process=== <!--T:78-->
+
+<!--T:79-->
+Consensual review is a catch all place used in the case the procedure described above is insufficient and needs discussion for more opinions to emerge.
+
+==== How to ask for consensual review==== <!--T:80-->
+
+<!--T:81-->
+To ask for consensual review, just change the '''/Promotion, /Decline''' to '''/Discuss''' and add your comments immediately following the review. An automatic bot will move it to the consensual review section within one day.
+
+<!--T:82-->
+Please only send things to consensual review that have been reviewed as promoted/declined. If, as a reviewer, you cannot make a decision, add your comments but leave the candidate on this page.
+
+==== Consensual review rules==== <!--T:83-->
+
+<!--T:84-->
+See [[Commons:Quality images candidates#Rules]]
+</translate>
+
+<translate><!--T:85--> Page refresh:</translate> {{purge}}
+
+{{:Commons:Quality images candidates/candidate list}}
+
+<translate>
+== Timetable (day 8 after nomination)== <!--T:86-->
+</translate>
+
+{{Commons:Quality images candidates/Timetable|format=<translate nowrap><!--T:88--> D d M</translate>}}
+
+[[Category:Quality images|candidates]]

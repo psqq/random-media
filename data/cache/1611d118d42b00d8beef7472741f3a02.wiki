@@ -1,0 +1,863 @@
+== Chelicerata ==
+{{VN
+|de = Spinnentiere
+|en = Spiders, Mites, Horseshoe crabs 
+}}
+<gallery widths="143px">
+File:Butterfly1-08487.jpg|
+File:Argiope_bruennichi_BW_2025-08-14_16-47-02.jpg|
+File:Western_Black_Widow_in_San_Jose_dllu.jpg|
+File:Agelena_labyrinthica_from_izmir.jpg|
+File:Cyclosa_from_İzmir.jpg|
+File:Plexippus_paykulli_subadult_male_anterior.jpg|
+File:Costa_Rica,_Limón,_Veragua_Rainforest_(Trichonephila_clavipes).jpg|
+File:Plexippus_paykulli_subadult_male_anterior_2.jpg|
+File:Sac_spider_Cheiracanthium_on_spike.jpg|
+File:Female_Hogna_radiata_from_izmir.jpg|
+File:Orchard_orbweaver_(30730s).jpg|
+File:A_spider_with_fly_for_breakfast.jpg|
+File:Philaeus_chrysops_in_Khoja_Gur_Gur_Ota_215.jpg|
+File:Паук_Аргиопа_Брюнниха.jpg|
+File:Crab_spider_in_attack_mode.jpg|
+File:Ертис_орманы_Паук_на_коре.jpg|
+File:Паук_в_сети.jpg|
+File:Banana_spider_(Phoneutria_sp.)_Rio_Napo.jpg|
+File:20220613_Tibellus_oblongus_02.jpg|
+File:Araña_de_seda_de_oro_(Trichonephila_fenestrata),_reserva_natural_Masái_Mara,_Kenia,_2024-05-19,_DD_22.jpg|
+File:Araña_de_seda_de_oro_(Trichonephila_fenestrata),_reserva_natural_Masái_Mara,_Kenia,_2024-05-19,_DD_16.jpg|
+File:Golden_orb-weavers_(Nephila_pilipes)_female_and_male_Double_Haven.jpg|
+File:Asian_Shore_Crab_(Hemigrapsus_sanguineus)_Little_Egg_Harbor_Township,_New_Jersey,_USA.jpg|
+File:20220613_Tibellus_oblongus_01.jpg|
+File:Wolf_spider_(Aglaoctenus_castaneus)_on_web_Rio_Napo.jpg|
+File:Napoleon_spider_(Synema_globosum)_on_strand_of_bulbous_canary-grass_(Phalaris_aquatica),_Parque_Florestal_de_Monsanto,_Lisbon,_Portugal_julesvernex2-2.jpg|
+File:Napoleon_spider_(Synema_globosum)_on_strand_of_bulbous_canary-grass_(Phalaris_aquatica),_Parque_Florestal_de_Monsanto,_Lisbon,_Portugal_julesvernex2.jpg|
+File:Trichonephila_plumipes,_Pacific_Golden_Orb_Weaving_Spider,_Sydney.jpg|
+File:Trichonephila_plumipes,_Golden_Orb_Weaver.jpg|
+File:Leucauge_argyra_(03156).jpg|
+File:Leucauge_argyra_(03153).jpg|
+File:Araña_(Perenethis_symmetrica),_Wadi_Bani_Khalid,_Omán,_2024-08-17,_DD_58.jpg|
+File:Argiope_bruennichi_Ragoli_02.jpg|
+File:Argiope_bruennichi_Ragoli_03.jpg|
+File:LYCOSINAE.jpg|
+File:Argiope_bruennichi_Ragoli_04.jpg|
+File:Wasp_spider_(Argiope_bruennichi)_female_dorsal_Hrdovicka.jpg|
+File:Wasp_spider_(Argiope_bruennichi)_female_ventral_Hrdovicka.jpg|
+File:Thomisus_lobosus_07786-Enhanced-NR.jpg|
+File:Misumena_vatia_with_bee_03.jpg|
+File:Female_water_mite_of_genus_Arrenurus.jpg|
+File:Crab_Spider_in_its_throne.jpg|
+File:Agelena_labyrinthica_sulla_sua_ragnatela.jpg|
+File:Ventral_Golden_Orb_Weaver_Spider_Sasatgre_Oct24_A7CR_03892.jpg|
+File:Thomisus_onustus_(female).jpg|
+File:C3_thomisidae_3.jpg|
+File:Mimetismo letale.jpg|
+File:Micrommata_virescens_subadult_Segonzano_02.jpg|
+File:20240726_Spinnennetz_Kienbachalm_NZ92240.jpg|
+File:Veränderliche_Krabbenspinne_(Juli_2024)_2.jpg|
+File:Zoropsis_spinimana,_pregnant_female_02.jpg|
+File:Ragno_Salticidae.jpg|
+File:Orb_weaver_spider_(Argiope_flavipalpis)_female_on_web_Nyamebe_Bepo.jpg|
+File:Agelena_labyrinthica_IMG_3604.jpg|
+File:Wasp,_lynx_spider_and_nine_spotted_moth.jpg|
+File:Spinnennetz_in_der_Nähe_des_Bocksgrabens_bei_Fichtelberg.jpg|
+File:Ventral_Spider_Inakanahalli_Coorg_Jun24_A7CR_01613.jpg|
+File:Metaphalangium_sp.jpg|
+File:Araneus_diadematus_-_tunisie.jpg|
+File:Buthus_paris.jpg|
+File:Female_Andrews_Cross_Spider_Suntikoppa_Apr24_D72_26517.jpg|
+File:Dolní_Kounice,_klášter_Rosa_coeli,_křižák_02.jpg|
+File:20240414_Krabbenspinne_in_Tulpe_MisumenaVatia_DSC06178_PtrQs.jpg|
+File:Kruger_National_Park_(ZA),_Skukuza,_Spinne_--_2024_--_1634.jpg|
+File:Cucumber_green_spider_(Araniella_cucurbitina)_Bovallstrand.jpg|
+File:Swifts'_ant-hunter_(Zenodorus_swiftorum)_Daintree.jpg|
+File:Female_Argiope_Aemula_Spider_Mysore_Jan24_D72_25682.jpg|
+File:Grapsus_adscensionis_in_Puerto_de_la_Cruz_2023a.jpg|
+File:Fork-palped_Harvestman.jpg|
+File:Nephila_edulis,_Australian_Golden_Orb_Weaver.jpg|
+File:Lobed_argiope_(80595).jpg|
+File:Detail_of_spider_(Dysdera_crocata)_with_secretions_between_massive_chelicerae_-_DSG1941-1_-_2022-11-08_(magnif._ratio_2.8x,_HiRes).jpg|
+File:Area_de_Proteção_Ambiental_Quilombos_do_Médio_Ribeira_-_Thomas-Fuhrmann_(2023-_07)_Misumenops_callinurus.jpg|
+File:Misumena_vatia_mit_Beute_auf_Lilie-20230704-RM-102430.jpg|
+File:Argiope_sp._resting_on_its_signature_web.jpg|
+File:20220713_Larinioides_sclopetarius_03.jpg|
+File:20220713_Larinioides_sclopetarius_05.jpg|
+File:Listspinne (Pisaura mirabilis) focus stacking-20230502-RM-170003.jpg|
+File:Resting_position_of_Gasteracantha_sp._in_its_web.jpg|
+File:Listspinne (Pisaura mirabilis) focus stacking-20230502-RM-170213.jpg|
+File:Eriovixia_sp._resting_on_a_leaf.jpg|
+File:A_female_Brettus_sp._guarding_her_eggs.jpg|
+File:Painted_ghost_crab_(Ocypode_gaudichaudii)_Osa.jpg|
+File:Resting_position_of_Eriovixia_sp._at_Chintamani_Kar_Bird_Sanctuary.jpg|
+File:Met_rijp_bedekte_spinrag._01-03-2023_(d.j.b.).jpg|
+File:At_Pyramids_of_Güímar_2023_077.jpg|
+File:Gartenkreuzspinne_IMG_9009.jpg|
+File:Nephila_spec._-_Wilhelma_02.jpg|
+File:Nephila_spec._-_Wilhelma_01.jpg|
+File:A_Wandering_Spider_(Family_Ctenidae).jpg|
+File:Common_crab_spider_(Xysticus_cristatus)_female_with_prey_Carniolan_honey_bee_(Apis_melifera_carnica).jpg|
+File:Kirchstraße_32_-_Monschau_-_Spinnen_-_Hubert_Kruft.jpg|
+File:Dülmen,_Hausdülmen,_Wehr_zur_Umflut,_Spinnennetz_--_2022_--_1398.jpg|
+File:Garrapata_común_(Ixodes_ricinus),_Hartelholz,_Múnich,_Alemania,_2020-06-11,_DD_16-29_FS.jpg|
+File:Jumping_spiders_(Salticidae).jpg|
+File:Harpactea_hombergi_Franconville.jpg|
+File:Segestria_bavarica_male.jpg|
+File:Porrhoclubiona_leucaspis.jpg|
+File:Nursery_web_spider_(Pisaura_mirabilis)_2.jpg|
+File:Zygiella_x-notata.jpg|
+File:Anyphaena_accentuata_France.jpg|
+File:Steatoda_nobilis_France.jpg|
+File:Pseudeuophrys_lanigera_on_a_concrete_wall.jpg|
+File:Spider_D35_8458nx-01.jpg|
+File:Spider_&_fly_April_2021-1.jpg|
+File:Haltern_am_See,_Westruper_Heide_--_2021_--_4689.jpg|
+File:Haltern_am_See,_Westruper_Heide_--_2021_--_4693.jpg|
+File:Spotted_orbweaver_in_Quogue_(23308).jpg|
+File:Павук_і_квітка.jpg|
+File:Juvenile_orchard_orbweaver_(32768).jpg|
+File:Spotted_orbweaver_with_prey_(12395).jpg|
+File:Araneus_diadematus_RF.jpg|
+File:Male_Phidippus_putnami_12_cropped.jpg|
+File:Male_Phidippus_putnami_01_cropped.jpg|
+File:Horseshoe_crabs_mating_on_Sandy_Hook_(70081).jpg|
+File:Horseshoe_crabs_mating_on_Sandy_Hook_(70072).jpg|
+File:Horseshoe_crabs_mating_on_Sandy_Hook_(70060).jpg|
+File:Overturned_horseshoe_crab_on_Plum_Island_(70116).jpg|
+File:Pear-shaped_leucauge_spider_(Opadometa_fastigata)_webs.jpg|
+File:Ebrechtella_tricuspidata_female.jpg|
+File:Golden_orb-weaver_spider_(Nephila_inaurata_madagascariensis)_female_2.jpg|
+File:Golden_orb-weaver_spider_(Nephila_inaurata_madagascariensis)_female_3.jpg|
+File:Ixodes_ricinus_on_dry_grass.jpg|
+File:Argiope_spider_female_adult_on_her_web_dorsal_view_black_background_Don_Det_Laos.jpg|
+File:Argiope_spider_female_juvenile_on_her_web_ventral_view_wooden_background_Don_Det_Laos.jpg|
+File:Argiope_spider_female_juvenile_on_her_web_dorsal_view_wooden_background_Don_Det_Laos.jpg|
+File:Argiope_spider_female_adult_on_her_web_ventral_view_black_background_Don_Det_Laos.jpg|
+File:Argiope_lobata,_female_-_Sète_03.jpg|
+File:Carrhotus_viduus_Jumping_spider_-_Salticidae_three-quarter_view_in_Don_Det_Laos_-_Focus_stacking.jpg|
+File:Argiope_bruennichi_in_Haute-Savoie_(1).jpg|
+File:Epeus_indicus09253.jpg|
+File:Spinnennetz_IMG_8414.jpg|
+File:Spider_(Carrhotus_sp_)_07989.jpg|
+File:Araña_de_pared_(Dictyna_civica),_Múnich,_Alemania,_2020-06-16,_DD_01-32_FS.jpg|
+File:Argiope_bruennichi_in_Haute-Savoie_(2).jpg|
+File:Horseshoe_crab_(62577).jpg|
+File:Argiope_bruennichi_in_Haute-Savoie_(3).jpg|
+File:Black_wood_spider_(Nephila_kuhlii)_ventral.jpg|
+File:Giant_wood_spider_(Nephila_pilipes)_female.jpg|
+File:Giant_wood_spider_(Nephila_pilipes)_female_ventral_2.jpg|
+File:Giant_wood_spider_(Nephila_pilipes)_female_ventral.jpg|
+File:Giant_wood_spider_(Nephila_pilipes)_female_2.jpg|
+File:Black_wood_spider_(Nephila_kuhlii).jpg|
+File:Oxyopidae_8072.jpg|
+File:Argiope_lobata,_female_-_Sète_02.jpg|
+File:Carrhotus_viduus_Jumping_spider_(Salticidae)_front_view_Don_Det_Laos_(focus_stacking).jpg|
+File:Araneus_diadematus_female-1230-2.jpg|
+File:Argiope_lobata,_female_-_Sète_01.jpg|
+File:Estação_Ecológica_de_Santa_Bárbara_Giordano_Rossi_(12).jpg|
+File:Philodromus_aureolus,_Hartelholz,_Múnich,_Alemania,_2020-06-25,_DD_97-132_FS.jpg|
+File:Labyrinth_spider_(Agelena_labyrinthica)_female_in_web_funnel.jpg|
+File:Parque_Estadual_Serra_do_Rola_Moça_Tomás_Oliveira_(02).jpg|
+File:Philodromus_aureolus,_Hartelholz,_Múnich,_Alemania,_2020-06-27,_DD_215-226_FS.jpg|
+File:Philodromus_cespitum,_Hartelholz,_Múnich,_Alemania,_2020-06-24,_DD_57-72_FS.jpg|
+File:Philodromus_cespitum,_Hartelholz,_Múnich,_Alemania,_2020-06-24,_DD_33-56_FS.jpg|
+File:Philodromus_aureolus,_Hartelholz,_Múnich,_Alemania,_2020-06-26,_DD_54-90_FS.jpg|
+File:Philodromus_aureolus,_Hartelholz,_Múnich,_Alemania,_2020-06-25,_DD_66-96_FS.jpg|
+File:Araña_de_saco_amarillo_(Cheiracanthium_punctorium),_Hartelholz,_Múnich,_Alemania,_2020-06-27,_DD_112-118_FS.jpg|
+File:Philodromus_aureolus,_Hartelholz,_Múnich,_Alemania,_2020-06-27,_DD_228-237_FS.jpg|
+File:Philodromus_aureolus,_Hartelholz,_Múnich,_Alemania,_2020-06-27,_DD_238-253_FS.jpg|
+File:Philodromus_aureolus,_Hartelholz,_Múnich,_Alemania,_2020-06-27_DD,_162-215_FS.jpg|
+File:Philodromus_aureolus,_Hartelholz,_Múnich,_Alemania,_2020-06-26,_DD_91-126_FS.jpg|
+File:Philodromus_aureolus,_Hartelholz,_Múnich,_Alemania,_2020-06-26,_DD_01-15_FS.jpg|
+File:Philodromus_aureolus,_Hartelholz,_Múnich,_Alemania,_2020-06-25,_DD_30-65_FS.jpg|
+File:Philodromus_aureolus,_Hartelholz,_Múnich,_Alemania,_2020-06-25,_DD_14-29_FS.jpg|
+File:Philodromus_aureolus,_Hartelholz,_Múnich,_Alemania,_2020-06-25,_DD_01-13_FS.jpg|
+File:Philodromus_cespitum,_Hartelholz,_Múnich,_Alemania,_2020-06-24,_DD_01-05_FS.jpg|
+File:Philodromus_cespitum,_Hartelholz,_Múnich,_Alemania,_2020-06-24,_DD_06-32_FS.jpg|
+File:Saco_de_huevos_de_una_araña_(Philodromus_aureolus),_Hartelholz,_Múnich,_Alemania,_2020-06-22,_DD_24-35_FS.jpg|
+File:Saco_de_huevos_de_una_araña_(Philodromus_aureolus),_Hartelholz,_Múnich,_Alemania,_2020-06-22,_DD_36-45_FS.jpg|
+File:Araña_de_pared_(Dictyna_civica),_Múnich,_Alemania,_2020-06-18,_DD_01-13_FS.jpg|
+File:Araña_de_pared_(Dictyna_civica),_Múnich,_Alemania,_2020-06-18,_DD_14-38_FS.jpg|
+File:Araña_de_pared_(Dictyna_civica),_Múnich,_Alemania,_2020-06-16,_DD_33-44_FS.jpg|
+File:Garrapata_común_(Ixodes_ricinus),_Hartelholz,_Múnich,_Alemania,_2020-06-11,_DD_01-15_FS.jpg|
+File:Pettstadt_Regnitz_Spinnennetz-20191015-RM-101731.jpg|
+File:Wolfsspinne_Trochosa_Rose-20190905-RM-081613.jpg|
+File:Trichterspinne_Eratigena_atrica-4921.jpg|
+File:Epeus_Indicus_09285.jpg|
+File:Decorated_burrowing_spider_(Psammorygma_aculeatum).jpg|
+File:Harvestman_(Santinezia_serratotibialis).jpg|
+File:Silver_argiope_(Argiope_argentata).jpg|
+File:Wasp_spider_(Argiope_bruennichi)_underside,_showing_stabilimentum.jpg|
+File:Wall_crab_spider_(Selenops_insularis)_female.jpg|
+File:Krabbenspinne_Misumena_vatia_auf_Sonnenblume-20190727-RM-075353.jpg|
+File:Krabbenspinne_Misumena_vatia_Rose-20190803-RM-085027.jpg|
+File:Kakadu_(AU),_Kakadu_National_Park,_Yellow_Water_--_2019_--_4061.jpg|
+File:Stabilimentum_in_a_garden_spider_web_(43943).jpg|
+File:Camaricus_formosus7349.jpg|
+File:Oxyopes_shweta_2095.jpg|
+File:Thomisus_05166.jpg|
+File:Hamadruas_sp_i05571.jpg|
+File:Oxyopidae_sp_03378.jpg|
+File:Olios_milleti5598.jpg|
+File:Olios_milleti5584.jpg|
+File:Lynx_spider_(Oxyopidae_sp)_04715.jpg|
+File:Wespenspinne_Argiope_bruennichi-7770.jpg|
+File:Pająk_kwietnik_(Misumena_vatia),_samica.jpg|
+File:На_віражах.jpg|
+File:Leiobunum_2019-08-27_P8275854_PSD.jpg|
+File:Lynx_spider_(Oxyopidae_sp)_04716.jpg|
+File:Oxyopidae_sp_03373.jpg|
+File:Oxyopes_shweta_2089.jpg|
+File:Zayapa_(Grapsus_grapsus),_Punta_Pitt,_isla_de_San_Cristóbal,_islas_Galápagos,_Ecuador,_2015-07-24,_DD_79.JPG|
+File:Argiope_aurantia_-_ventral_veiw.jpg|
+File:Crab_spider_(Misumena_Vatia)_with_prey_silver-spotted_skipper_(Hesperia_comma).jpg|
+File:Wasp spider (Argiope bruennichi) female dorsal.jpg|
+File:Wasp spider (Argiope bruennichi) female ventral.jpg|
+File:Telamonia_dimidiata9063.jpg|
+File:Olios_milleti_5605.jpg|
+File:Phidippus_putnami_female_01.jpg|
+File:Atlantic_horseshoe_crab_(Limulus_polyphemus).jpg|
+File:Marpissa_pikei_male_02.jpg|
+File:Wandering_spider_(Cupiennius_getazi)_with_female_katydid_prey_(Tettigoniidae_sp.).jpg|
+File:Spider_with_prey_(_1070002).jpg|
+File:Thomisus_lobosus_02149.jpg|
+File:Olios_milleti_5591.jpg|
+File:Lynx_spider_9445.jpg|
+File:Telamonia_dimidiata9078.jpg|
+File:Oxyopes_Sp_9443.jpg|
+File:Telamonia_dimidiata9065.jpg|
+File:Telamonia_dimidiata9074.jpg|
+File:Telamonia_dimidiata9079.jpg|
+File:Hippasa_holmerae_(Lawn_wolf_spider)_in_its_funnel_web.jpg|
+File:Bavia_kairali_8259.jpg|
+File:Jumping_spider_05007.jpg|
+File:Hippasa_holmerae_(Lawn_wolf_spider)_in_its_funnel_web_(2).jpg|
+File:Jumping_spider_05005.jpg|
+File:Spider_(45295554922).jpg|
+File:Tetragnatha_Sp_7913.jpg|
+File:Bavia_kairali_2318.jpg|
+File:Crab_spider_07033.jpg|
+File:Spider_04991.jpg|
+File:Spider_04961.jpg|
+File:Spider_5709.jpg|
+File:Plexippus_petersi_(jumping_spider)_on_a_human_finger_at_golden_hour.jpg|
+File:Malagasy_green_lynx_spider_(Peucetia_madagascariensis)_male.jpg|
+File:Malagasy_green_lynx_spider_(Peucetia_madagascariensis)_female.jpg|
+File:Malagasy green lynx spider (Peucetia lucasi) and green bottle fly (Lucilia sp.).jpg|
+File:Salticidae_04950.jpg|
+File:ChemancheriArgiope_sp_3291.jpg|
+File:Bavia_kairali_2326.jpg|
+File:Spider_06825.JPG|
+File:Argiope_sp_3290.jpg|
+File:Lycosidae_sp_5219.jpg|
+File:Stenaelurillus_albus_09680.jpg|
+File:Bavia_kairali_2321.jpg|
+File:Poisonous_spider.jpg|
+File:Green_Lynx_Spider7014.jpg|
+File:Carrhotus_sp_5909.jpg|
+File:Carrhotus_viduus_6099.jpg|
+File:Carrhotus_viduus_6103.jpg|
+File:Spider_8343.jpg|
+File:Carrhotus_viduus_6101.jpg|
+File:Sparassidae_spp_8267.jpg|
+File:Bavia_aericeps_8345.jpg|
+File:Bavia_aericeps_8361.jpg|
+File:Carrhotus_viduus_(female)_6098.jpg|
+File:Carrhotus_viduus_5992.jpg|
+File:Giant_huntsman_spider_8264.jpg|
+File:Carrhotus_viduus_female_6002.jpg|
+File:Carrhotus_sp_5917.jpg|
+File:Bavia_kairali8254.jpg|
+File:Spider_05573.JPG|
+File:Spider_05591.JPG|
+File:Spider8069.jpg|
+File:Hyllus_sp_7855.jpg|
+File:Spider_8447.jpg|
+File:Bavia_aericeps_8449.jpg|
+File:Green_Lynx_Spider7037.jpg|
+File:Peucetia_viridana_7033.jpg|
+File:Peucetia_viridana_6985.jpg|
+File:Peucetia_viridana7019.jpg|
+File:Peucetia viridana 6970.jpg|
+File:Peucetia viridana 7059.jpg|
+File:Green_Lynx_Spider_7064.jpg|
+File:Wespenspinne_Zebraspinne_Argiope_bruennichi.jpg|
+File:Thomisus_onustus_on_Orchis_purpurea.jpg|
+File:Female_Misumena_vatia_near_Botevgrad,_Bulgaria_02.jpg|
+File:Tetragnatha Sp 7946.jpg|
+File:Nephila kuhlii 3907.jpg|
+File:Orb_Weaver_spider_2_LR.jpg|
+File:Spider (Oxyopidae ). 8137.jpg|
+File:Tetragnatha Sp 7989.jpg|
+File:Lynx spider 8134.jpg|
+File:Raft spider (Dolomedes cf fimbriatus (Pisauridae)).jpg|
+File:Nephila_pilipes_jalorensis_hunting_termite_alates_2.jpg|
+File:Spider 9369.jpg|
+File:Telamonia 0469.jpg|
+File:Hersiliidae sp 7795.jpg|
+File:Spider 6312.jpg|
+File:Spider 6315.jpg|
+File:Tree trunk spider 02266.JPG|
+File:Argiope_keyserlingi,_St_Andrews_Cross_Spider,_Sydney.jpg|
+File:Lynx spider 8067.jpg|
+File:Carrhotus sp 8176.jpg|
+File:Telamonia dimidiata 0555.jpg|
+File:Crab spider (Thomisus onustus) with prey nettle tree butterfly (Libythea celtis).jpg|
+File:CHEMANCHERY5615.jpg|
+File:CHEMANCHERY5624.jpg|
+File:CHEMANCHERY5561.jpg|
+File:Telamonia dimidiata 0458.jpg|
+File:Argiope aemula- female 5600.jpg|
+File:Argiope aemula- female 5631.jpg|
+File:Argiope aemula 5688.jpg|
+File:Myrmarachne Sp 7224.jpg|
+File:Green huntsman spider 0642.jpg|
+File:Myrmarachne Sp 7225.jpg|
+File:Myrmarachne Sp7227.jpg|
+File:Spider (Telamonia sp)0526.jpg|
+File:Telamonia 0467.jpg|
+File:Red_Velvet_Mites_01.jpg|
+File:Oxyopus-ramosus-on-prey.jpg|
+File:Red_Velvet_Mites_05.jpg|
+File:Red_Velvet_Mites_03.jpg|
+File:Thomise_Verrières_3.jpg|
+File:Myrmarachne 6137.jpg|
+File:Bavia kairali 7650.jpg|
+File:Cucullia_blattariae,_Giresun_2017-07-07_01-1.jpg|
+File:Brintesia_circe,_Giresun_2017-07-07_01-1.jpg|
+File:Green huntsman spider 0627.jpg|
+File:Spider (Telamonia sp) 0501.jpg|
+File:Green huntsman spider 0645.jpg|
+File:Spider (Telamonia sp) 0509.jpg|
+File:Telamonia 0480.jpg|
+File:Spider9326.jpg|
+File:Spider 8512a.jpg|
+File:Myrmarachne 6143.jpg|
+File:Sparassidae 8269.jpg|
+File:Crab Spider 09982.jpg|
+File:Parawixia sp 8235.jpg|
+File:Brachypelma_vagans_p2.jpg|
+File:Brachypelma_vagans_p1.jpg|
+File:Raft_spider_(Dolomedes_fimbriatus)_female.jpg|
+File:Spider 6307.jpg|
+File:Epocilla sp 2565 (cropped).jpg|
+File:Cheiracanthium sp 7562.jpg|
+File:Hippasa Sp 7269.jpg|
+File:Phintella vittata 8198.jpg|
+File:Camaricus formosus .jpg|
+File:Spider 6328.jpg|
+File:Crab Spider 6344.jpg|
+File:Spider 6313.jpg|
+File:Myrmarachne Sp 7236.jpg|
+File:Olios milleti 5589.jpg|
+File:Olios milleti 5587.jpg|
+File:Phintella sp 4702.jpg|
+File:Asemonea tenuipes 5559.jpg|
+File:Spider 5582.jpg|
+File:Spider-belonging-to-Oxyopes-genus-feeding-on-an-insect.jpg|
+File:Araignée_Citron_Scabieuse.jpg|
+File:Heteropoda venatoria-Kadavoor-2017-05-22-001.jpg|
+File:Bavia-Kadavoor-2017-04-28-001.jpg|
+File:Treviño - Cerro de Treviño - Nido de procesionaria 01.jpg|
+File:2015_Jaskinia_Niedźwiedzia_w_Kletnie,_szata_naciekowa_23.JPG|
+File:Rinden-Springspinne_Männchen.jpg|
+File:Eriophora transmarina in web at night.jpg|
+File:Eirugas_en_Ouzande._Galiza.jpg|
+File:Telamonia dimidiata-Kadavoor-2016-11-28-001.jpg|
+File:Telamonia dimidiata-Kadavoor-2016-11-28-002.jpg|
+File:Telamonia dimidiata-Kadavoor-2016-11-28-003.jpg|
+File:Spider 4674.jpg|
+File:Tree trunk spider 08461.jpg|
+File:Hamadruas sp 05600.jpg|
+File:Spider 8492.jpg|
+File:Atractomorpha (grasshopper) 9826.jpg|
+File:Oxyopes sp 7516.jpg|
+File:Insect 7025.jpg|
+File:Cheiracanthium melanostomum 9358.jpg|
+File:Spider 9352.jpg|
+File:Paratettix sp 6927.jpg|
+File:Carrhotus viduus 5.jpg|
+File:Spider6391.jpg|
+File:Carrhotus viduus 9160.jpg|
+File:Gasteracantha geminata 5856.jpg|
+File:Spider 9884.jpg|
+File:Spider 9507.jpg|
+File:Hyllus semicupreus 2.jpg|
+File:Carrhotus sp 8042.jpg|
+File:Carrhotus viduus.jpg|
+File:Crab Spider 6354.jpg|
+File:Paper Wasp 5957.jpg|
+File:Spider 4537.jpg|
+File:Crab Spider 6339.jpg|
+File:Telamonia dimidiata (♂) 08233.JPG|
+File:Crab Spider 6299.jpg|
+File:Spider 6286.jpg|
+File:Telamonia dimidiata 08244.jpg|
+File:Crab Spider 05974.jpg|
+File:Pentatomidae (nymph) 6081.jpg|
+File:Crab Spider 00632.jpg|
+File:Crab Spider 6345.jpg|
+File:Spider6350.jpg|
+File:Oxyopes Sp 6255.jpg|
+File:Cheiracanthium danieli 6335.jpg|
+File:Spider (Argiope aemula) 5733.jpg|
+File:Pentatomidae (nymph) 6089.jpg|
+File:Eriovixia Sp 6427.jpg|
+File:Spiny orb-weaver 5853.jpg|
+File:Argiope aemula 5738.jpg|
+File:Tetragnatha sp 8785.jpg|
+File:Spider 5573.jpg|
+File:Argiope aemula 5736.jpg|
+File:Phintella sp 4746.jpg|
+File:Phintella sp 4681.jpg|
+File:Krabbenspinne-P1310225-PS.jpg|
+File:Spider 8181.jpg|
+File:Plexippus sp 8368.jpg|
+File:Antmimicking spider (Myrmarachne) 0972.jpg|
+File:Oxyopes Sp 6256.jpg|
+File:2016_Pajęczyna_2.jpg|
+File:Tetragnatha sp 8432.jpg|
+File:Plexippus sp 8373.jpg|
+File:Plexippus sp 8369.jpg|
+File:Cheiracanthium danieli 6329.jpg|
+File:Phintella sp 4663.jpg|
+File:Spider 0971.jpg|
+File:Myrmarachne 8387.jpg|
+File:Carrhotus viduus 3.jpg|
+File:Argiope pulchella-Kadavoor-2016-07-26-001.jpg|
+File:Peucetia Sp 05444.jpg|
+File:Peucetia Sp 05438.jpg|
+File:Spider(Neoscona sp) 0131.jpg|
+File:Carrhotus viduus 4.jpg|
+File:Spider 9529.jpg|
+File:Spider 8584.jpg|
+File:Spider(Neoscona sp) 0150.jpg|
+File:Spider(Neoscona sp) N0161.jpg|
+File:Spider 9504.jpg|
+File:Spider 9889.jpg|
+File:Oxyopes javanus-Kadavoor-2016-06-20-001.jpg|
+File:Hersilia-2016-06-19-002.jpg|
+File:Hersilia-2016-06-19-003.jpg|
+File:Hersilia-2016-06-19-005.jpg|
+File:Spider(Neoscona sp) 0170.jpg|
+File:Spider(Neoscona sp) 0167.jpg|
+File:Argiope pulchella 06254.jpg|
+File:Spider 9531.jpg|
+File:Spider(Neoscona Sp) 8582.jpg|
+File:Spider 06707.JPG|
+File:Spider 09630.JPG|
+File:Carrhotus viduus - female 06246.jpg|
+File:Spider 9574.jpg|
+File:Spider 09112.JPG|
+File:Oxyopes javanus-Kadavoor-2016-06-17-002.jpg|
+File:Spider(Neoscona Sp) 8580.jpg|
+File:Hippasa-Kadavoor-2016-04-09-001.jpg|
+File:Spider 05678.JPG|
+File:Spider(Stenaelurillus Sp) 05947.jpg|
+File:Spider(Neoscona Sp) 8626.jpg|
+File:Antmimicking spider 8388.jpg|
+File:Oxyopes javanus-Kadavoor-2016-04-02-002.jpg|
+File:Epeus flavobilineatus 06179.jpg|
+File:Spider 8583.jpg|
+File:Epeus-Kadavoor-2016-04-05-002.jpg|
+File:Oxyopes javanus-Kadavoor-2016-04-02-001.jpg|
+File:Oxyopes sunandae 04674.jpg|
+File:Spider (Argiope pulchella) 06255.jpg|
+File:Peucetia Sp 05445.jpg|
+File:Spider 00810.JPG|
+File:Brettus sp 06729.jpg|
+File:Hyllus semicupreus 06935.JPG|
+File:Oak_Spider_(Aculepeira_ceropegia)_female.jpg|
+File:Telamonia dimidiata female (♀) 02818.jpg|
+File:Argiope pulchella-Kadavoor-2016-03-24-001.jpg|
+File:Riptortus-Kadavoor-2016-03-30-001.jpg|
+File:Pisaura_mirabilis,_Vic-la-Gardiole_cf05.jpg|
+File:Pisaura_mirabilis,_Vic-la-Gardiole_cf04.jpg|
+File:Pisaura_mirabilis,_Vic-la-Gardiole_cf01.jpg|
+File:Wall crab spider (Selenops insularis) male.jpg|
+File:Spider_sp_-_Örümcek_03.jpg|
+File:Lasiodora parahybana 2016 G1.jpg|
+File:Водяной клещ.jpg|
+File:Tree trunk spider 08428.jpg|
+File:Spider cocoon-Kadavoor-2015-08-22-001.jpg|
+File:Spider April 2008-2.jpg|
+File:Telamonia dimidiata (male) 09257.JPG|
+File:Thiania bhamoensis 01490.jpg|
+File:Thiania bhamoensis 07864.jpg|
+File:Vierfleckkreuzspinne_(Araneus_quadratus).JPG|
+File:Oxyopidae 06832.jpg|
+File:Gea (Araneidae) 08922.jpg|
+File:Nephila pilipes, Bangunjiwo, Bantul 2015-09-19 04.jpg|
+File:Nephila pilipes, Bangunjiwo, Bantul 2015-09-19 05.jpg|
+File:Nephila pilipes, Bangunjiwo, Bantul 2015-09-19 06.jpg|
+File:Camaricus formosus 05701.jpg|
+File:Holocnemus_hispanicus_-_01.jpg|
+File:Argiope_lobata,_female._Villeveyrac_01.jpg|
+File:Argiope_lobata,_female._Villeveyrac_02.jpg|
+File:Argiope_lobata,_female._Villeveyrac_03.jpg|
+File:Lasiodora parahybana 2015 G1.jpg|
+File:Spider 08942.JPG|
+File:Epeus flavobilineatus 03832.jpg|
+File:Argiope_lobata,_female._Villeveyrac_04.jpg|
+File:Spider 06830.JPG|
+File:Oxyopidae 02351.jpg|
+File:Oxyopes shweta 06686.JPG|
+File:Oxyopes shweta 06667.JPG|
+File:Oxyopes shweta 06635.JPG|
+File:Opadometa fastigata weaving the web-Kadavoor-2015-08-20-001.jpg|
+File:Araña_zig_zag_(Argiope_aurantia),_Punta_Pitt,_isla_de_San_Cristóbal,_islas_Galápagos,_Ecuador,_2015-07-24,_DD_44.JPG|
+File:Thomisidae feeding Junonia almana on Acmella ciliata-Kadavoor-2015-08-21-001.jpg|
+File:Camaricus formosus 05704.jpg|
+File:Thiania bhamoensis 07869.jpg|
+File:Araña_zig_zag_(Argiope_aurantia),_Punta_Pitt,_isla_de_San_Cristóbal,_islas_Galápagos,_Ecuador,_2015-07-24,_DD_43.JPG|
+File:Araña_zig_zag_(Argiope_aurantia),_isla_Lobos,_islas_Galápagos,_Ecuador,_2015-07-25,_DD_59.JPG|
+File:2015.07.02.-04-Schwarzbach Doberschuetz--Wolfspinne-Pardosa lugubris s. str.-Weibchen.jpg|
+File:2015.07.02.-03-Schwarzbach Doberschuetz--Wolfspinne-Pardosa lugubris s. str.-Weibchen.jpg|
+File:2015.07.02.-02-Schwarzbach Doberschuetz--Wolfspinne-Pardosa lugubris s. str.-Weibchen.jpg|
+File:Unidentified Philodromidae 07107.jpg|
+File:Galle_Lindengallmilbe_Eriophyes_tiliae.JPG|
+File:Camaricus formosus 07150.jpg|
+File:Gea (Araneidae) 09007.jpg|
+File:Oxytate virens 01802.JPG|
+File:Tetragnatha_montana,_Vic-la-Gardiole_05.jpg|
+File:2015.06.26.-05-Mannheim Vogelstang--Veraenderliche Krabbenspinne-Weibchen.jpg|
+File:2015.06.26.-03-Mannheim Vogelstang--Veraenderliche Krabbenspinne-Weibchen.jpg|
+File:Spider 08136.JPG|
+File:Spider 09754.JPG|
+File:2015.06.26.-06-Mannheim Vogelstang--Braune Krabbenspinne-junges Weibchen.jpg|
+File:Oxyopes shweta - 2.jpg|
+File:Oxyopidae of Kadavoor.jpg|
+File:2015.06.26.-04-Mannheim Vogelstang--Veraenderliche Krabbenspinne-Weibchen.jpg|
+File:Spider 09723.JPG|
+File:Spider08698.JPG|
+File:Spider 08697.JPG|
+File:Spider 09725.JPG|
+File:Thomisus sp 03329.JPG|
+File:Thomisus sp 03316.JPG|
+File:Spider 09129.JPG|
+File:Oxyopes javanus 09134.jpg|
+File:Oxyopidae 02356.jpg|
+File:Hamadruas sp 02346.jpg|
+File:2015.05.24.-17-Buchklingen--Streifenkreuzspinne-Weibchen.jpg|
+File:Spinne_Bratental_Ps.jpg|
+File:Thomisus lobosus 08501.JPG|
+File:Scytodes sp 08139.jpg|
+File:Hyllus semicupreus 06953.JPG|
+File:Telamonia dimidiata (♂) 08176.JPG|
+File:Telamonia dimidiata (♂) 08230.JPG|
+File:Thomisus lobosus 02150.jpg|
+File:Thomisus_onustus,_Réserve_naturelle_régionale_de_Sainte_Lucie_02.jpg|
+File:Olios milleti 01703.JPG|
+File:Thomisus_onustus,_Réserve_naturelle_régionale_de_Sainte_Lucie.jpg|
+File:Araniella_cucurbitina_-_Cucumber_green_spider_02.jpg|
+File:2014.09.20.-11-Kaefertaler Wald-Mannheim--Wolfspinne-Xerolycosa nemoralis-Weibchen.jpg|
+File:2014.09.20.-10-Kaefertaler Wald-Mannheim--Wolfspinne-Xerolycosa nemoralis-Weibchen.jpg|
+File:2014.08.29.-4-Mannheim Vogelstang--Kraeuseljagdspinne-Zoropsis spinimana-Weibchen.jpg|
+File:2014.08.29.-3-Mannheim Vogelstang--Kraeuseljagdspinne-Zoropsis spinimana-Weibchen.jpg|
+File:2014.08.29.-2-Mannheim Vogelstang--Kraeuseljagdspinne-Zoropsis spinimana-Weibchen.jpg|
+File:2014.08.29.-1-Mannheim Vogelstang--Kraeuseljagdspinne-Zoropsis spinimana-Weibchen.jpg|
+File:Telamonia dimidiata female (♀) 08802.jpg|
+File:Olios milleti 01704.JPG|
+File:Nephila inaurata in Mafate.JPG|
+File:Olios milleti 01692.JPG|
+File:2014.07.26.-03-Neckar Mannheim-Feudenheim--Wespenspinne-Weibchen.jpg|
+File:Camouflaging_Spider_07.jpg|
+File:Thomisus lobosus 08893.jpg|
+File:Hogna_radiata,_Roquebrun_02.jpg|
+File:Hogna_radiata,_Roquebrun_03.jpg|
+File:Eicocon of eierzak van spinnen (Araneae).jpg|
+File:Hogna_radiata,_Roquebrun_04.jpg|
+File:Argyrodes flavescens at Nayikayam Thattu.jpg|
+File:2014.07.15.-19-Presseler Teich--Gemeine Streckerspinne.jpg|
+File:Argiope pulchella around Nayikayam Thattu.jpg|
+File:Argiope pulchella on Nayikayam Thattu.jpg|
+File:Argiope pulchella by Nayikayam Thattu.jpg|
+File:2014.07.15.-20-Presseler Teich--Gemeine Streckerspinne.jpg|
+File:Argiope pulchella at Nayikayam Thattu.jpg|
+File:Argiope pulchella in Nayikayam Thattu.jpg|
+File:Argiope pulchella of Nayikayam Thattu.jpg|
+File:Eicocon of eierzak van spinnen (Araneae). Locatie, De Famberhorst.JPG|
+File:Argiope at Kadavoor.jpg|
+File:Buthus_ibericus.jpg|
+File:2014.06.21.-17-Mannheim Rheinau--Veraenderliche Krabbenspinne-Weibchen-mit Beute.jpg|
+File:2014.06.21.-20-Mannheim Rheinau--Veraenderliche Krabbenspinne-Weibchen-mit Beute.jpg|
+File:2014.06.21.-06-Mannheim Rheinau--Krabbenspinne-Thomisus onustus-Weibchen.jpg|
+File:2014.06.21.-01-Mannheim Rheinau--Veraenderliche Krabbenspinne-Weibchen.jpg|
+File:Palystes_castaneus_dorsal_external_anatomy.jpg|
+File:2014.05.31.-12-See Pfingstberg Mannheim-Rheinau-Laufspinne Philodromus sp-Weibchen.jpg|
+File:A Aranha-de-prata (Argiope argentata) se alimenta, antero-dorsal recorte.jpg|
+File:Harvestman leiobunum blackwalli female.jpg|
+File:Harvestman opilio canestrinii male.jpg|
+File:2014.03.09.-18-Kaefertaler Wald-Mannheim-Braune Krabbenspinne-Weibchen.jpg|
+File:2014.03.09.-17-Kaefertaler Wald-Mannheim-Braune Krabbenspinne-Weibchen.jpg|
+File:Trombidium holosericeum Woblitz01.jpg|
+File:2014.03.08.-9-Kaefertaler Wald-Mannheim-Schafzecke-Maennchen.jpg|
+File:2014.03.08.-8-Kaefertaler Wald-Mannheim-Schafzecke-Weibchen.jpeg|
+File:2013.06.05.-09-Kirschgartshaeuser Schlaege Mannheim-Springspinne-Heliophanus unbestimmt.jpeg|
+File:2012.09.08.-3-Vogelstangsee Mannheim-Gartenkreuzspinne-Weibchen.jpg|
+File:2012.09.08.-2-Vogelstangsee Mannheim-Gartenkreuzspinne-Weibchen.jpg|
+File:2012.09.08.-1-Vogelstangsee Mannheim-Gartenkreuzspinne-Weibchen.jpg|
+File:Zoropsis spinimana, Sète, Hérault 04.jpg|
+File:Zoropsis spinimana, Sète, Hérault 01.jpg|
+File:Zoropsis spinimana, Sète, Hérault 03.jpg|
+File:Zoropsis spinimana, Sète, Hérault 02.jpg|
+File:Argiope July 2012-3.jpg|
+File:Spider November 2010-6a.jpg|
+File:Argiope bruennichi 010805.jpg|
+File:2013.08.02.-07-Kirschgartshaeuser Schlaege Mannheim-Wespenspinne-Weibchen.jpg|
+File:2013.07.01-16-Wustrow-Neu Drosedow-Erdbeerspinne-Maennchen.jpg|
+File:2013-08-06_19-18-46-Argiope-bruennichi.JPG|
+File:Spider web with fog droplets 2 .jpg|
+File:Toile araignee MN.jpg|
+File:Wasp and spider 02.jpg
+</gallery>
+<!-- sorted -->
+== Arachnida‎ ==
+<gallery widths="143px">
+<!-- Araneae -->
+<!--- Agelenidae --->
+<!----- Tegenaria ----->
+File:Focus stacked spider.jpg|
+File:Spider April 2010-2a.jpg|
+File:Trichterspinne01.JPG|
+<!--- Araneidae --->
+<!----- Argiope ----->
+File:Argiope July 2012-1.jpg|
+File:Argiope July 2012-2.jpg|
+File:Wespenspinne, Argiope bruennichi 4.JPG|
+File:15-30-03-ar.jpg|
+File:2010-07-30 14-21-47-ar.jpg|
+File:2010-07-30 14-36-42-ar.jpg|
+File:2010-07-30 14-36-51-ar.jpg|
+File:Argiope bruennichi detail spinneret.JPG|
+File:Паук в Донецке 3.jpg|
+File:ComputerHotline - Argiope bruennichi (by) (1).jpg|
+File:Argiope bruennichi Cornacchiaia 1.jpg|
+File:Argiope bruennichi, Livorno 1.jpg|
+File:Argiope bruennichi 2009 G1.jpg |
+File:Argiope bruennichi 08Oct10.jpg|
+File:Argiope keyserlingi, St Andrew's Cross Spider, Sydney.JPG|
+<!----- Neoscona ----->
+File:Neoscona adianta 4.JPG|
+<!---- Araneini ---->
+<!----- Aculepeira ----->
+File:Wet Spider 01 (MK).jpg|
+<!----- Agalenatea ----->
+File:2013.05.28.-5-Mannheim Vogelstang-Koerbchenspinne-Weibchen.jpg|
+File:2013.05.28.-4-Mannheim Vogelstang-Koerbchenspinne-Weibchen.jpg|
+File:2012.10.19.-14-Mannheim Vogelstang-Koerbchenspinne-Weibchen.jpg|
+<!----- Araneus ----->
+<!--- --- Araneus diadematus --- --->
+File:2012.09.29.-03-Kaefertaler Wald Mannheim-Gartenkreuzspinne-Weibchen-Schnitt.jpg|
+File:Ristiämblik2.jpg|
+File:Araneus diadematus - Kreuzspinne von unten.jpg|
+File:Araneus diadematus - Kreuzspinne von oben.jpg|
+File:Araneus-diadematus-gartenkreuzspinne.jpg|
+File:Spider November 2010-4.jpg|
+File:Spider November 2010-9.jpg|
+File:Spider November 2010-8.jpg|
+File:Spider November 2010-6.jpg|
+File:Araneus diadematus qtl1.jpg|
+File:Araneus diadematus, Livorno 1.JPG|
+File:ComputerHotline - Araneus diadematus (by) (1).jpg|
+File:ComputerHotline - Araneus diadematus (by).jpg|
+File:Thomas Bresson - Araneus diadematus (by).jpg|
+File:Spider July 2008-1.jpg|
+File:Spider July 2008-3.jpg|
+File:Araneus diadematus3.jpg
+File:Kreuzspinne front Sep06.jpg
+<!--- --- Araneus trifolium --- --->
+File:Spider web with fog droplets.jpg|
+<!---- Cyclosini ---->
+<!----- Araniella ----->
+File:Araniella-cucurbitina-kuerbisspinne.jpg|
+<!----- Eriophora ----->
+File:Eriophora transmarina front.jpg|
+File:Eriophora transmarina underside at night.jpg|
+<!---- Gasteracanthini ---->
+<!----- Gasteracantha ----->
+File:Gasteracantha cancriformis in Secret Woods.JPG|
+<!---- Mangorini ---->
+<!----- Larinioides ----->
+File:Brückenspinne-Larinioides-sclopetarius.jpg|
+File:Larinioides cornutus qtl1.jpg|
+File:Larinioides cornutus qtl2.jpg|
+File:Larinioides-patagiatus.jpg|
+<!--- Gnaphosidae --->
+File:Ground spider Gnaphosidae in Spain.jpg
+<!--- Hexathelidae --->
+File:BlackTunnelweb head (edit).jpg
+<!--- Linyphiidae --->
+<!----- Linyphia ----->
+File:2012.10.20-17-Mannheim Vogelstang--Baldachinspinne-Linyphia Triangularis-Weibchen.jpg|
+<!--- Lycosidae --->
+<!----- Pardosa ----->
+File:Pardosa amentata LC0272.jpg|
+File:Pardosa-amentata-dunkle-wolfspinne.jpg|
+File:Pardosa amentata qtl2.jpg|
+<!--- Miturgidae --->
+File:Cheiracanthium mildei male.jpg|
+File:Cheiracanthium punctorium 2.JPG|
+<!--- Nephilidae --->
+File:Spider Nephila clavata 0911.jpg|
+File:Nephila clavipes sky.JPG|
+File:Nephila clavipes sky2.JPG|
+File:Nephila clavipes VS Apis mellifera.jpg|
+File:Nephila inaurata conjugal meal.JPG|
+File:Nephila senegalensis Santiago Cape Verde.jpg|
+<!--- Philodromidae --->
+<!----- Tibellus ----->
+File:2013.04.29.-07-Kuehkopf Stockstadt-Laufspinne-Tibellus oblongus-Weibchen.jpg|
+File:Tibellus-oblongus.jpg|
+File:Tibellus sp qtl3.jpg|
+File:Tibellus sp qtl4.jpg|
+<!--- Pisauridae --->
+<!----- Dolomedes ----->
+File:Dolomedes fimbriatus 1.jpg|
+File:Six-spotted Fishing Spider Dolomedes triton 1733px.jpg
+<!----- Pisaura ----->
+File:2013.05.18.-16-Kirschgartshaeuser Schlaege Mannheim-Listspinne-Maennchen.jpg|
+File:2013.05.18.-15-Kirschgartshaeuser Schlaege Mannheim-Listspinne-Maennchen.jpg|
+File:2013.05.18.-13-Kirschgartshaeuser Schlaege Mannheim-Listspinne-Maennchen.jpg|
+File:2013.05.18.-09-Kirschgartshaeuser Schlaege Mannheim-Listspinne-Weibchen-mit Beute.jpg|
+File:Pisaura mirabilis 03 (MK).jpg|
+File:Pisaura mirabilis qtl1.jpg|
+File:Pisaura mirabilis on Plantago lanceolata.jpg|
+<!--- Salticidae --->
+File:Salticidae April 2013-2.jpg|
+<!----- Menemerus ----->
+File:Spider September 2007-1.jpg
+<!----- Phidippus ----->
+File:Kaldari Phidippus johnsoni female 01.jpg|
+File:Kaldari Phidippus johnsoni female 05.jpg|
+<!----- Philaeus ----->
+File:Philaeus chrysops podgorje 01.jpg|
+<!----- Platycryptus ----->
+File:Kaldari Platycryptus undatus 05.jpg|
+<!----- Salticus ----->
+File:2012-05-24 15-19-19-Salticus.jpg|
+<!----- Thiodina ----->
+File:Thiodina sylvana female 01.jpg|
+File:Thiodina sylvana female 03.jpg|
+<!--- Segestriidae‎ --->
+File:Araña Mandaio 07-0-2006 10.jpg|
+File:Segestria florentina.jpg
+<!--- Sparassidae --->
+File:Olios argelasius MHNT.jpg
+<!--- Tetragnathidae --->
+File:Höhlenkreuzspinne-meta-menardi .jpg|
+File:Spider Tetragnatha praedonia 1006 .jpg |
+<!--- Theraphosidae --->
+<!----- Brachypelma ----->
+File:Brachypelma klaasi 2009 G01 cropped.jpg|
+File:Brachypelma klaasi 2009 G12.jpg |
+File:Brachypelma klaasi 2009 G03.jpg |
+File:Brachypelma klaasi 2009 G05.jpg |
+File:Brachypelma klaasi 2009 G08.jpg |
+File:Brachypelma klaasi 2009 G06.jpg|
+File:Brachypelma klaasi 2009 G01.jpg|
+File:Brachypelma smithi 2009 G09.jpg|
+File:Brachypelma smithi 2009 G07.jpg |
+File:Brachypelma smithi 2009 G08.jpg |
+File:Brachypelma smithi run 2009 G1.jpg |
+File:Brachypelma smithi run 2009 G2.jpg |
+File:Brachypelma smithi run 2009 G3.jpg |
+File:Brachypelma smithi 2009 G04.jpg|
+File:Brachypelma smithi 2009 G06.jpg|
+File:Brachypelma smithi 2009 G03.jpg|
+File:Brachypelma smithi 2009 G01.jpg|
+File:Brachypelma smithi 2009 G02.jpg|
+<!---- Lasiodora ---->
+File:Lasiodora parahybana 2009 G10.jpg |
+File:Lasiodora parahybana 2009 G08.jpg |
+File:Lasiodora parahybana 2009 G02.jpg |
+File:Lasiodora parahybana 2009 G01.jpg|
+File:Lasiodora parahybana 2009 G03.jpg|
+File:Lasiodora parahybana 2009 G04.jpg|
+File:Lasiodora parahybana 2009 G07.jpg|
+File:Lasiodora parahybana 2009 G09.jpg|
+File:Lasiodora parahybana 2009 G06.jpg|
+File:Lasiodora parahybana 2009 G05.jpg|
+<!--- Theridiidae --->
+<!----- Parasteatoda ----->
+File:Ficheiro-Araña alimentándose de Auchenorrhyncha. Bastavales, Brión, 090905.jpg|
+<!--- Thomisidae --->
+<!----- Diaea ----->
+File:Diaea-dorsata-krabbenspinne.jpg|
+<!----- Misumena ----->
+File:Misumena vatia portrait.jpg|
+File:Thomise 2 Luc Viatour.jpg|
+File:2013-06-07 16-08-35-thomisidae.JPG|
+File:2013-06-07 21-14-27-thomisidae.JPG|
+File:Misumena vatia Vs Episyrphus balteatus.jpg|
+File:2013.04.17.-06-Kaefertaler Wald Mannheim-Misumena vatia-Weibchen.jpg|
+File:Misumena vatia (2).JPG|
+File:Misumena vatia (3).JPG|
+File:Misumena vatia female Luc Viatour 2.jpg|
+File:Misumena vatia female Luc Viatour 4.jpg|
+File:Misumena vatia female Luc Viatour 5.jpg|
+File:Misumena vatia female Luc Viatour 1.jpg|
+File:Misumena vatia 01.jpg|
+File:Misumena vatia male01.jpg|
+File:Misumena vatia Apis mellifera.jpg|
+File:Misumena vatia on Achillea millefolium qtl5.jpg|
+File:Misumena vatia on Achillea millefolium qtl4.jpg|
+File:Misumena vatia qtl2.jpg|
+File:Misumena vatia qtl3.jpg|
+File:Misumena-vatia-krabbenspinne.jpg|
+File:Misumena vatia with caught fly.jpg|
+<!----- Thomisus ----->
+File:Thomisus onustus, female, Livorrno.jpg|
+File:Spider and fly April 2010-3.jpg|
+File:Spider and fly April 2010-2.jpg|
+File:Thomisus onustus.jpg|
+File:Thomisus onustus with Apis mellifera.jpg
+File:Spider and bee June 2008-1.jpg|
+File:Spider and fly April 2008-6.jpg|
+File:Spider and fly April 2008-3.jpg
+File:Spider and fly April 2008-2.jpg
+File:Spider and fly April 2008-1.jpg
+<!----- Xysticus ----->
+File:2013.05.18.-30-Kirschgartshaeuser Schlaege Mannheim-Braune-Krabbenspinne-Weibchen.jpg|
+File:2013.05.18.-29-Kirschgartshaeuser Schlaege Mannheim-Braune-Krabbenspinne-Weibchen.jpg|
+File:2013.05.18.-31-Kirschgartshaeuser Schlaege Mannheim-Braune-Krabbenspinne-Weibchen.jpg|
+File:Xysticus-sp-krabbenspinne.jpg|
+File:Xysticus sp qtl1.jpg|
+File:Crab spider'Xysticus sp.jpg|
+File:Xysticus.spec.6890.jpg
+<!--- --- Xysticus cristatus --- --->
+File:Araña. A Estrada, Galiza. 02.jpg|
+<!--- Zoropsidae --->
+File:2013.03.13.-4-Mannheim Vogelstang-Kraeuseljagdspinne-Zoropsis spinimana-Weibchen.jpg|
+File:Zoropsis December 2011-1.jpg|
+</gallery>
+<gallery widths="143px">
+<!-- Ixodida -->
+File:Ixodus ricinus 5x.jpg|
+File:Ixodes ricinus.jpg
+</gallery>
+<gallery widths="143px">
+<!-- Opiliones -->
+<!--- Phalangiidae --->
+File:Oligolophus tridens qtl1.jpg|
+File:Opilio canestrinii LC0163.jpg|
+</gallery>
+<gallery widths="143px">
+<!-- Trombidiformes -->
+<!--- Trombidiidae --->
+File:Trombidium holosericeum LC0127.jpg
+File:Trombidium holosericeum 2 Luc Viatour.jpg
+<!--- Tuckerellidae --->
+</gallery>
+<gallery widths="143px">
+<!-- Scorpiones -->
+<!--- Buthidae --->
+File:Androctonus australis qtl1.jpg|
+<!--- Scorpionidae --->
+File:Pandinus imperator 2009 G1.jpg |
+</gallery>
+== Merostomata‎ ==
+<gallery widths="143px">
+<!-- Xiphosura -->
+File:Limulus polyphemus (aq.).jpg|
+File:Limule(dD).jpg|
+File:Limules.jpg|
+</gallery>

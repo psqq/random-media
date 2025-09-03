@@ -1,0 +1,979 @@
+== Cityscapes ==
+
+<gallery>
+File:Zhdanovskaya_Embankment_SPB_05.jpg|
+File:Singapore_Supertree-Grove-in-The-Gardens-03.jpg|
+File:Bad_Bank,_Krumme_Lanke,_Berlin,_151227,_ako.jpg|
+File:Sismographe Vésuve.jpg|
+File:Utrecht, de Vismarkt-Choorstraat vanaf de Maartensbrug foto5 2015-11-01 11.07.jpg|
+File:Utrecht, de Planeet en de Viebrug foto8 2015-11-01 10.47.jpg|
+File:Glandorf,_Ortsansicht_--_2014_--_8531.jpg|
+File:KotaKinabalu_Sabah_SRJKC-Chung-Hwa-Kg-Air-Kota-Kinabalu-03.jpg|
+File:Βρύσες Αποκορώνου 4626.jpg|
+File:Flensburg 2015-08 img12 Jürgensby panorama.jpg|
+File:Lubyanka CDM view from Panoramic view point 05-2015 img12.jpg|
+File:Apeldoorn, Zutphensestraat en Ina Boudier-Bakkersingel.jpg|
+File:2014_Rynek_w_Ząbkowicach_Śląskich,_07.JPG|
+File:Chur_Reichsgasse.jpg|
+File:Sungai-Mangis Sabah Tamaco-Oil-Mill-2-02.jpg|
+File:Torre Latinoamericana from Alameda Central promenade.jpg|
+File:Panama Casco Antiguo panorama.jpg|
+File:Zhdanovskaya_Embankment_SPB_03.jpg|
+File:KotaKinabalu_Sabah_SMK-St-Francis-Convent-04.jpg|
+File:Fraser_Valley_Panorama_4.jpg|
+File:Besigheim Mai 2015.JPG|
+File:Holstentor von der Petrikirche.jpg|
+File:End_of_the_Via_Appia_Antica_(Brindisi)_at_night.jpg|
+File:Zhdanovskaya_Embankment_SPB_01.jpg|
+File:Mijas_10.jpg|
+File:Fate_November_2015_2_(Fate_Main_Place).jpg|
+File:Heliopolis from the plane.JPG|
+File:Power_Station_of_the_Red_Banner_Textile_Factory_SPB.jpg|
+File:Rue_de_la_Toison-d'Or_vers_parc_de_Merl_-_Luxembourg_City.jpg|
+File:Sandakan_Sabah_Lai-Piang-Kee-Building-02.jpg|
+File:Dülmen,_Skulpturen_im_Bendixpark_--_2015_--_8523.jpg|
+File:Je_suis_Paris_Luxembourg-ville_2015_large.jpg|
+File:Petrovsky_Lane_SPB_01.jpg|
+File:Gimnazichesky_Lane_SPB_01.jpg|
+File:Maliy_Avenue_of_Petrograd_Side_01.jpg|
+File:Bolshoy_Avenue_of_Petrograd_Side_01.jpg|
+File:Blokhina_Street_SPB_01.jpg|
+File:Rosensteina_Street_SPB_01.jpg|
+File:Maliy_Avenue_of_Vasilievsky_Island_01.jpg|
+File:Sigmaringen August 2015.jpg|
+File:Courtyards_of_SPB_04.jpg|
+File:Carnegie_Mellon_Scott_Hall_under_construction.jpg|
+File:2009-09-22-luftbild-berlin-by-RalfR-17.jpg|
+File:2009-09-22-luftbild-berlin-by-RalfR-10.jpg|
+File:Makarova_Embankment_SPB_01.jpg|
+File:Akropolis 2015.jpg|
+File:Akropolis mit Umgebung.jpg|
+File:Walkie-Talkie,_edificio_Leadenhall_y_Gherkin,_Londres,_Inglaterra,_2014-08-11,_DD_087.JPG|
+File:San Cristóbal de La Laguna (Zuschnitt).jpg|
+File: Kromeriz 06.jpg|
+File:Ivana_Chernyh_Street_SPB_01.jpg|
+File:Nameless_Passage_in_SPB_01.jpg|
+File:6-7_Lines_of_Vasilievsky_Island_SPB_01.jpg|
+File:Muralla_árabe,_Ágreda,_España,_2012-08-27,_DD_03.JPG|
+File:Status housing estate in Korolyov.jpg|
+File:Moika_river_Embankment_23_Abamelek-Lazarev_mansion_Saint_Petersburg.jpg|
+File:Poertschach Johannes-Brahms-Promenade Uferbauten und Parkhotel 14122015 2490.jpg|
+File:2014_Prowincja_Wajoc_Dzor,_Jeghegnadzor,_Wjazd_do_centrum_miasta_od_strony_drogi_M2.jpg|
+File:ISS Rõuge Suurjärve kohal.jpg|
+File: Kromeriz 08.jpg|
+File:Cerro_de_San_Cristóbal,_Lima,_Perú,_2015-07-28,_DD_117.JPG|
+File:Kungsgatan_December_2015_02.jpg|
+File:Kungsgatan_December_2015_01.jpg|
+File:Catherine_Palace_near_Saint_Petersburg_way_to.jpg|
+File:Municipal_Building_in_Saint_Petersburg_architect_Alexander_Lvovich_Lishnevsky.jpg|
+File:View_of_Sulaymaniyah_(Slemani)_City_in_Winter_-_Snow_2015.JPG|
+File:Paris_-_20150801_16h07_(10628).jpg|
+File:Frankfurt am Main, Römer -- 2015 -- 6695-9.jpg|
+File:2009-09-22-luftbild-berlin-by-RalfR-08.jpg|
+File:Ziębice,_Rynek_2,_05.JPG|
+File:Frankfurt_am_Main,_St.-Katharinen-Kirche_und_Commerzbanktower_--_2015_--_6764.jpg|
+File:2009-09-22-luftbild-berlin-by-RalfR-15.jpg|
+File:Champ-de-Mars_-_20150801_15h29_(10620).jpg|
+File:Marina-Bay_Singapore_Firework-launching-CNY-2015-06.jpg|
+File:Московский кремль ночью.jpg|
+File:Lviv Old Town 2015 G01.jpg|
+File:Street scene, Dean St Albury NSW.JPG|
+File:Siaröfortet_July_2015_20.jpg|
+File:Admiralteysky_Passage_SPB_01.jpg|
+File:Downtown Tampa, Florida.jpg|
+File:Frankfurt am Main, Rathaus -- 2015 -- 6746-7.jpg|
+File:15-10-27-Vista_des_de_l'estàtua_de_Colom_a_Barcelona-WMA_2826.jpg|
+File:Έξω Μουλιανά 0675.jpg|
+File:Έξω Μουλιανά 0676.jpg|
+File:Vista_de_Alicante,_España,_2014-07-04,_DD_63.JPG|
+File:15-11-25-Maribor_Inenstadt-RalfR-WMA_4225.jpg|
+File:15-11-25-Maribor_Inenstadt-RalfR-WMA_4215.jpg|
+File:15-11-25-Maribor_Inenstadt-RalfR-WMA_4226.jpg|
+File:15-07-12-Mexico-D-F-RalfR-N3S_9017.jpg|
+File:15-07-12-Mexico-D-F-RalfR-N3S_9018.jpg|
+File:15-07-21-Mexico-Stadtzentrum-RalfR-N3S_9737.jpg|
+File:2015_Mały_Rynek_w_Bystrzycy_Kłodzkiej_02.JPG|
+File:Barbican Lakeside on a summer evening.jpg|
+File:Bolshaya_Podyacheskaya_Street_01.jpg|
+File:Borodinskaya_Street_SPB_02.jpg|
+File:Cerro_de_San_Cristóbal,_Lima,_Perú,_2015-07-28,_DD_113.JPG|
+File:Düsseldorf,_-Anno_1915--Häuschen_--_2015_--_8125.jpg|
+File:Marseiller Straße 2 (Hamburg-St. Pauli).29356.ajb.jpg|
+File:Marshala_Zhukova_Avenue_SPB_01.jpg|
+File:Miami Tower cropped.jpg|
+File:Monteliusvägen 2015.jpg|
+File:Morning_in_Sète_01.jpg|
+File:Piran_Bolniška_ulica_umbrella.jpg|
+File:Piran_city_walls_SW.jpg|
+File:Piran_from_Cankarjevo_nabrežje_to_Župna_cerkev_svetega_Jurija.jpg|
+File:Piran_greenmarket_June_2015.jpg|
+File:Piran_Tartini_square_from_cathedral.jpg|
+File:Piran_Ulica_IX_korpusa_down.jpg|
+File:Poertschach Johannes-Brahms-Promenade Strandbar Passion 22112015 9248.jpg|
+File:Port de la Cotinière.jpg|
+File:Rathaus_Orlamünde,_140609,_ako.jpg|
+File:Regensburg-roofs.jpg|
+File:Stadt_Ranis,_Ortseingangsschild,_151002,_ako.jpg|
+File:Steindorf Tschöran mit Ossiacher See 04112015 2175.jpg|
+File:Steyr_Ennskai_rear_of_Stadtplatz_3_5_7.jpg|
+File:Tartu_Town_Hall_2015.jpg|
+File:Tartu_Town_Hall_Place_towards_Kaarsild_2015.jpg|
+File:Tekniska_nämndhuset_July_2015.jpg|
+File:Tiflisskaya_Street_SPB_01.jpg|
+File:Tour-de-Saint-Thugal-à-Château-Landon-DSC_0149.jpg|
+File:Ufergasse - Obernberg am Inn.jpg|
+File:Veteranov_Avenue_SPB_03.jpg|
+File:View of Dealey Plaza from Reunion Tower August 2015 01.jpg|
+File:View_from_the_Kazansky_Bridge_Church_of_the_Savior_on_Blood.jpg|
+File:View_of_Alexander_park_and_Neva_River_from_Isaac_Cathedral_Saint_Petersburg.jpg|
+File:Vista_de_Tarazona,_España,_2015-01-02,_DD_07.JPG|
+File:Vista_de_Tarazona,_España,_2015-01-02,_DD_21-23_HDR.JPG|
+File:Vista_de_Tarazona,_España,_2015-01-02,_DD_24-26_HDR.JPG|
+File:Wesseling_Germany_Rhine-ships-in-front-of-Industrial-panorama-01.jpg|
+File:Wuppertal_-_Rauental_23_ies.jpg|
+File:Wuppertal_-_Wasserturm_Roßkamper_Höhe_01_ies.jpg|
+File:Wuppertal_-_Zoo_19_ies.jpg|
+File:Yogyakarta_Indonesia_Telekommunikation-mast-01.jpg|
+File:Zdorovtseva_Street_SPB_01.jpg|
+File:Πλατεία 18 Άγγλων, Ηράκλειο 9286.jpg|
+File:Πλατεία Αγίας Ειρήνης, Αθήνα 1199.jpg|
+File:Таллинн. 1.jpg|
+File:Таллинн. 3.jpg|
+File:Hotel_Saint_Petersburg_02.jpg|
+File:Navy_Apartment_House_SPB.jpg|
+File:Noble_Nest_Apartment_House_SPB.jpg|
+File:Mytninskaya_Embankment_SPB_01.jpg|
+File:14-08-06-barcelona-RalfR-314.jpg|
+File:14-08-12-helsinki-RalfR-N3S_0810-391.jpg|
+File:15-07-14-Campeche-Luftbild-RalfR-WMA_0506.jpg|
+File:15-07-14-Landschaft-zwischen-Mexico-und-Golfküste-RalfR-WMA_0450.jpg|
+File:15-10-28-Cerdanyola_del_Vallès-WMA_2993.jpg|
+File:15-10-28-Ripollet-RalfR-WMA_3007.jpg|
+File:15-10-28-Ripollet-RalfR-WMA_3008.jpg|
+File:15-10-28-Ripollet-RalfR-WMA_3010.jpg|
+File:2015_Lewin_Kłodzki.jpg|
+File:2015_night_in_Moscow_-_Bolshaya_Sadovaya_Street_01.jpg|
+File:2015_Turyści_na_ul._Loretańskiej_w_Pradze.jpg|
+File:Amtsgericht_Tempelhof-Kreuzberg,_Familiengericht,_151024,_ako.jpg|
+File:Ansicht_Aiguèze.jpg|
+File:Antwerp_Belgium_Loodswezengebouw-01.jpg|
+File:Arnhem centrum, Airbornemonument Jacob Groenewoudplantsoen met John Frostbrug op achtergrond foto3 2015-06-30 18.12.jpg|
+File:Arnhem centrum, stuk van de Eusebiuskerk bij het Airborne monument Jacob Groenewoudplantsoen foto4 2015-06-30 18.18.jpg|
+File:Artà - View from Transfiguració del Senyor.JPG|
+File:Bad Wörishofen, Hauptstr. (2015-09-05 3559 Sp).JPG|
+File:Bahnhof Berlin Friedrichstraße - Überblick.jpg|
+File:Bahntower,_Potsdamer_Platz,_Berlin,_141027,_ako.jpg|
+File:Bamberg-6128410.jpg|
+File:Barques_de_Cettarames._Sète_01.jpg|
+File:Bogenstraße 34 (Hamburg-Harvestehude).Treppenhaus.19907.ajb.jpg|
+File:Bored_tourists_on_Gondola_Venice.jpg|
+File:Bundesministerium_für_Bildung_und_Forschung,_Berlin,_150607,_ako.jpg|
+File:Chicago_from_North_Avenue_Beach_June_2015_panorama_1.jpg|
+File:Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg|
+File:Coimbra_December_2011-8.jpg|
+File:Cologne_Germany_Cityscape-from-Rodenkirchener-Brücke-01.jpg|
+File:Cologne_Germany_Ellmühle-02.jpg|
+File:Cologne_Germany_Junkyard-in-Deutzer-Hafen-01.jpg|
+File:Copenhagen_-_view_from_Christiansborg_castle_(2).JPG|
+File:Copenhagen_-_view_from_Christiansborg_castle.jpg|
+File:D129_bridge,_Frontignan,_Hérault_01.jpg|
+File:Dülmen,_Hermann-Leeser-Schule_--_2015_--_4954.jpg|
+File:Dülmen,_Jubiläumsbrunnen_(und_Rathaus)_--_2015_--_4896.jpg|
+File:Dülmen,_Jubiläumsbrunnen_(und_Rathaus)_--_2015_--_4898.jpg|
+File:Edeka_new_york_ring_6_02.jpg|
+File:Ericushöft (Hamburg-HafenCity).02.12471.ajb.jpg|
+File:Klagenfurt Neuer Platz Lindwurmbrunnen 09092015 7222.jpg|
+File:Leonberg Fachwerkhäuser am Marktplatz.jpg|
+File:Lisboa_June_2014-11a.jpg|
+File:Mariaberget_September_2015_01.jpg|
+File:Plaza_de_María_Pita,_La_Coruña,_España,_2015-09-25,_DD_92.jpg|
+File:Plaza_Solidaridad_en_Cuauhtémoc_-_Grilled_corn_-_2.JPG|
+File:Poertschach Johannes-Brahms-Promenade Parkhotel 22112015 9243.jpg|
+File:Poertschach Johannes-Brahms-Promenade Strandbar Passion 22112015 9246.jpg|
+File:Pogranichnika_Garkavogo_Street_SPB_01.jpg|
+File:Pomyalovskogo_Street_SPB.jpg|
+File:Porto July 2014-10a.jpg|
+File:Postbank_sydneystr_überseering_01.jpg|
+File:Scherbakov_Lane_SPB_03.jpg|
+File:Tambasova_Street_SPB_01.jpg|
+File:Tamparuli_Sabah_OldShophouse-1.jpg|
+File:The_Champ_de_Mars_Racecourse.JPG|
+File:Veteranov_Avenue_SPB_06.jpg|
+File:View of Old Red Museum from Reunion Tower August 2015 04.jpg|
+File:Wuppertal_Friedrich-Engels-Allee_0350.jpg|
+File:Wuppertal_Obere_Lichtenplatzer_Str_0017.jpg|
+File:Wuppertal_Obere_Lichtenplatzer_Str_0029.jpg|
+File:Tower_buildings_Kreuzberg.jpg|
+File:15-07-14-Centro_histórico_de_San_Francisco_de_Campeche-RalfR-WMA_0725.jpg|
+File:Trier_Humboldt-Gymnasium_BW_2015-06-17_07-19-56.jpg|
+File:Trier_Reichsbahndirektion_BW_2015-06-17_07-06-27.jpg|
+File:Trier_Sternstr_1_BW_2015-06-17_07-13-06.jpg|
+File:Tuchkov_Lane_SPB_01.jpg|
+File:10 Ruska Street, Lviv (01).jpg|
+File:View_to_Admiralteyskaya_Ebmbankment_in_SPB.jpg|
+File:Vista_del_Puerto_de_Victoria_desde_Sky100,_Hong_Kong,_2013-08-09,_DD_10.JPG|
+File:Volkova_Square_in_Yaroslavl_01.jpg|
+File:Vollenhove_Netherlands_Royal-Huisman-shipyard-01.jpg|
+File:Voronovytsia 2015 G1.jpg|
+File:Wienerberg City, Ansicht vom Wasserturm Favoriten.jpg|
+File:Winter_Canal_SPB.jpg|
+File:Wue Heinestr7.JPG|
+File:Yubileynaya_Square_in_in_Yaroslavl_01.jpg|
+File:Zavelstein von der Burgruine.jpg|
+File:Zell_(Mosel),_Rathaus_--_2015_--_7587.jpg|
+File:Zeltingen-Rachtig_BW_2015-06-07_17-06-39.jpg|
+File:Σκάλα Ωρωπού 1334.jpg|
+File:Соловецкий монастырь.jpg|
+File:Vancouver_Block_05.JPG|
+File:Vancouver_Gastown_01.JPG|
+File:Vancouver_urban_decay.JPG|
+File:Varese_Sacro_Monte_view_to_southeast.jpg|
+File:2015_Mały_Rynek_w_Bystrzycy_Kłodzkiej_03.JPG|
+File:Vaxholms_kastell_August_2015_02.jpg|
+File:Florence_Italy_Remote-view-of-Santa-Maria-del-Fiore-01.jpg|
+File:Florence_Italy_Remote-view-of-Palazzo-Vecchio-01.jpg|
+File:Florence_Italy_Remote-view-of-Santa-Croce-01.jpg|
+File:Wolfe_City_October_2015_05_(Main_Street).jpg|
+File:13-04-13-st-poelten-pathausplatz-714.jpg|
+File:15-07-12-Mexico-D-F-RalfR-N3S_9012.jpg|
+File:15-07-12-Mexico-D-F-RalfR-N3S_9014.jpg|
+File:15-07-12-Mexico-D-F-RalfR-N3S_9026.jpg|
+File:15-07-12-Mexico-D-F-RalfR-N3S_9027.jpg|
+File:15-07-14-Campeche-Luftbild-RalfR-WMA_0513.jpg|
+File:15-07-15-Campeche-Straßenszene-RalfR-WMA_0882.jpg|
+File:15-07-16-Straszenszenen-Mexico-RalfR-WMA_1087.jpg|
+File:15-07-18-Torre-Latino-Mexico-RalfR-WMA_1360.jpg|
+File:15-10-27-Vista_des_de_l'estàtua_de_Colom_a_Barcelona-WMA_2790.jpg|
+File:15-10-27-Vista_des_de_l'estàtua_de_Colom_a_Barcelona-WMA_2849.jpg|
+File:15-10-28-Cerdanyola_del_Vallès-WMA_2994.jpg|
+File:15-10-28-Ripollet-RalfR-WMA_3014.jpg|
+File:15-10-28-Ripollet-RalfR-WMA_3018.jpg|
+File:2015_Stare_miasto_w_Bardzie.jpg|
+File:Forced perspective buildings 200mm focal length.jpg|
+File:Kalmar_läns_Museum_2015_02.JPG|
+File:Kantar_Karakolu,_Izmir.jpg|
+File:Pittsburgh_city_pano_2015.jpg|
+File:Pittsburgh_dawn_city_pano_2015.jpg|
+File:Pittsburgh_Light_Rail_on_the_Panhandle_Bridge.jpg|
+File:Pittsburgh_skyline_2015_from_Mount_Washington.jpg|
+File:Pittsburgh_skyline_panorama_at_night.jpg|
+File:Pittsburgh_skyline_panorama_daytime.jpg|
+File:Potsdamer_Platz,_Berlin-Mitte,_151011,_ako.jpg|
+File:Potsdamer_Platz,_Berlin-Mitte,_151024,_ako.jpg|
+File:Potsdamer_Platz,_Berlin,_151024,_ako.jpg|
+File:Ex_shell_überseering_35_04.jpg|
+File:Faber-Hochhaus (Magdeburg-Altstadt).11.ajb.jpg|
+File:Frankfurt_am_Main,_Ostzeile_am_Samstagsberg_--_2015_--_6679.jpg|
+File:Inzhenernaya_Street_SPB_02.jpg|
+File:Italianskaya_Street_SPB_01.jpg|
+File:Jakarta_Indonesia_Fatahillah-Square-Fountain-01.jpg|
+File:Kalinkin_Lane_SPB_01.jpg|
+File:Magazzini_del_Sale_Basilica_Santa_Maria_della_Salute.jpg|
+File:Moskovsky_Avenue_SPB_07.jpg|
+File:Moyka_river_in_Saint_Petersburg_view_NE_.jpg|
+File:Moyka_river_in_Saint_Petersburg_view_south_from_Green_bridge.jpg|
+File:Moyka_river_in_Saint_Petersburg_view_south_from_Pevchesky_bridge.jpg|
+File:Moyka_river_in_Saint_Petersburg_view_south_from_Pevchesky_bridge_Nevski_prospect.jpg|
+File:Moyra_River_at_Postal_Workers_House_of_Culture_Saint_Petersburg.jpg|
+File:Münster,_Prinzipalmarkt_--_2014_--_4508.jpg|
+File:Münster,_Prinzipalmarkt_--_2014_--_4531-5.jpg|
+File:Münster,_Prinzipalmarkt_--_2015_--_01054.jpg|
+File:Perast,_Bahía_de_Kotor,_Montenegro,_2014-04-19,_DD_35.JPG|
+File:Piran_harbour_Tartini_trg.jpg|
+File:Piran_old_town.jpg|
+File:Poertschach S-Ansicht mit Bruecke zur Blumeninsel Astoria und Pfarrkirche 06112015 2279.jpg|
+File:Poertschach SO-Blick von Niederer Gloriette 03112015 2134.jpg|
+File:Puente_de_Piedra,_Skopie,_Macedonia,_2014-04-16,_DD_91.JPG|
+File:Κάτω Κουρούνι 2882.JPG|
+File:Κοίλι 2838.JPG|
+File:Κύμη 2145.jpg|
+File:15-10-27-Mirador_desde_Park_Guell-WMA_2913_1.jpg|
+File:15-10-27-Vista_des_de_l'estàtua_de_Colom_a_Barcelona-WMA_2827.jpg|
+File:15-10-27-Vista_des_de_l'estàtua_de_Colom_a_Barcelona-WMA_2847.jpg|
+File:Brickell skyline 2012.jpg|
+File:Skyline Frankfurt am Main 2015.jpg|
+File:13-08-09-peak-by-RalfR-02.jpg|
+File:2015_Kościół_św._Wita_w_Niwie_01.jpg|
+File:AT_13527_Kath._Pfarrkirche_hl._Johannes_Evangelist_und_Friedhof,_Wenns-8257.jpg|
+File:AT_13527_Kath._Pfarrkirche_hl._Johannes_Evangelist_und_Friedhof,_Wenns-8258.jpg|
+File:AT_13527_Kath._Pfarrkirche_hl._Johannes_Evangelist_und_Friedhof,_Wenns-8259.jpg|
+File:Heidelberg Altstadt Schloss Luftbild.JPG|
+File:Namur_Belgium_Bridges-over-the-Meuse-01.jpg|
+File:Neues_Schloss_Schlossplatzspringbrunnen_Jubiläumssäule_Schlossplatz_Stuttgart_2015_01.jpg|
+File:Nisyros_-_Mandraki1.jpg|
+File:Norrskär_August_2015_01.jpg|
+File:North_view_of_Visnes,_Stryn_20150603_1.jpg|
+File:Northwest_remote_view_of_Bodø_Railway_Station_and_Surrounding_Buildings_20150608_1.jpg|
+File:Novo-Rybinskaya_Street_SPB_01.jpg|
+File:Nyboder,_Copenhagen.JPG|
+File:Nyhavn_Copenhagen_2014_10.jpg|
+File:Nyköping_February_2015_07.jpg|
+File:Raekoja_plats_Tallinn_2015.jpg|
+File:Robson_Square_Vancouver_03.JPG|
+File:Brodschrangen 15 (Hamburg-Altstadt).01.11792.ajb.jpg|
+File:Frankfurt_am_Main,_Main_--_2015_--_6725.jpg|
+File:Frankfurt_am_Main,_Mainufer_--_2015_--_6724.jpg|
+File:Freudenberg_-_historischer_Stadtkern_"Alter_Flecken".jpg|
+File:Fuerte_de_San_Felipe,_Setúbal,_Portugal,_2012-05-11,_DD_05.JPG|
+File:Gendarmenmarkt-Konzerthaus-Franzoesicher-Dom-2015.jpg|
+File:Linz_Hauptplatz_Dreifaltigkeitssäule_Brückenkopf_2015.jpg|
+File:Monschau_Germany_Timber-framed-houses-along-Rur-river-01.jpg|
+File:Monschau_Germany_Timber-framed-houses-along-Rur-river-02.jpg|
+File:Monschau,_straatzicht_op_vakwerkhuizen_met_oa_Dm80_vanaf_brug_over_de_Roer_foto4_2015-04-15_16.43.jpg|
+File:Münster,_Lambertiplatz_--_2014_--_4635.jpg|
+File:15-10-27-Vista_des_de_l'estàtua_de_Colom_a_Barcelona-WMA_2791.jpg|
+File:Elisabethenplatz,_Wiesbaden-Biebrich,_150905,_ako.jpg|
+File:English_Bay_Vancouver_03.jpg|
+File:Ericusbrücke (Hamburg-HafenCity).2.14151.ajb.jpg|
+File:Ericushöft (Hamburg-HafenCity).07.12471.ajb.jpg|
+File:Ericushöft (Hamburg-HafenCity).14.12471.ajb.jpg|
+File:Etten Leur, de Leurse Haven foto9 2015-05-24 19.50.jpg|
+File:Familjebostäder_July_2015_02.jpg|
+File:Fondamenta_del_Monastero_Rio_dei_Tolentini.jpg|
+File:Dülmen,_Münsterstraße_--_2015_--_5738.jpg|
+File:Dülmen,_Ortsansicht_--_2015_--_6429.jpg|
+File:Dülmen,_Ortsansicht_--_2015_--_6430-4.jpg|
+File:Évoramonte_September_2013-1.jpg|
+File:Καδί 2381.jpg|
+File:2014_Stare_miasto_w_Bardzie,_12.JPG|
+File:2015 Kłodzko, ul. Pileckiego 01.jpg|
+File:2015_Bystrzyca_Kłodzka,_ul._Międzyleśna.JPG|
+File:2015_Bystrzyca_Kłodzka,_ul._Podmiejska.JPG|
+File:2015_Kłodzko,_ul._Chełmońskiego_01.JPG|
+File:2015_Kłodzko,_ul._Hołdu_Pruskiego_01.JPG|
+File:2015_Kłodzko,_ul._Hołdu_Pruskiego_03.JPG|
+File:2015_Kłodzko,_ul._Korczaka_02.JPG|
+File:2015_Kłodzko,_ul._Łukasińskiego_02.JPG|
+File:2015_Kłodzko,_ul._Matejki_01.JPG|
+File:2015_Kłodzko,_ul._Moniuszki_01.JPG|
+File:2015_Kłodzko,_ul._Nadrzeczna_01.JPG|
+File:2015_Kłodzko,_ul._Nadrzeczna_02.JPG|
+File:2015_Kłodzko,_ul._Partyzantów_01.JPG|
+File:2015_Kłodzko,_ul._Partyzantów_02.JPG|
+File:2015_Kłodzko,_ul._Piękna_01.JPG|
+File:2015_Kłodzko,_ul._Pileckiego_02.JPG|
+File:2015_Kłodzko,_ul._Podgrodzie_01.JPG|
+File:2015_Kłodzko,_ul._Przyjaciół_dzieci_01.JPG|
+File:2015_Kłodzko,_ul._Rataja_01.jpg|
+File:2015_Kłodzko,_ul._Rodzinna_01.JPG|
+File:2015_Kłodzko,_ul._Różana_01.JPG|
+File:2015_Kłodzko,_ul._Różana_02.JPG|
+File:2015_Kłodzko,_ul._Różana_03.JPG|
+File:2015_Kłodzko,_ul._Spadzista_04.JPG|
+File:2015_Kłodzko,_ul._Szkolna_01.JPG|
+File:2015_Kłodzko,_ul._Szkolna_02.JPG|
+File:2015_Kłodzko,_ul._Wandy.JPG|
+File:2015_Kłodzko,_ul._Warty_01.JPG|
+File:2015_Kłodzko,_ul._Warty_02.JPG|
+File:2015_Kłodzko,_ul._Widokowa_01.JPG|
+File:2015_Kłodzko,_ul._Witosa.JPG|
+File:2015_Kłodzko,_ul._Zajęcza_01.JPG|
+File:2015_Kłodzko,_ul._Zajęcza_02.JPG|
+File:2015_Kłodzko,_ul._Zawiszy_Czarnego_01.JPG|
+File:2015_Kłodzko,_ul._Zawiszy_Czarnego_02.JPG|
+File:Pörtschach Johannes-Brahms-Promenade Blumenstrand Blumenbeete 22042015 2542.jpg|
+File:Rabiosa_in_Churwalden.jpg|
+File:Rågsved_April_2015.jpg|
+File:Düsseldorf,_Medienhafen_--_2015_--_8131.jpg|
+File:Düsseldorf,_Medienhafen_--_2015_--_8146-51.jpg|
+File:Düsseldorf,_Medienhafen_--_2015_--_8161.jpg|
+File:Düsseldorf,_Medienhafen_--_2015_--_8173-4.jpg|
+File:Düsseldorf,_Neuer_Zollhof_--_2015_--_8138-42.jpg|
+File:Düsseldorf,_Neuer_Zollhof_--_2015_--_8155.jpg|
+File:Düsseldorf,_Neuer_Zollhof_--_2015_--_8158.jpg|
+File:Düsseldorf,_Villa_Horion_--_2015_--_8217.jpg|
+File:04-03-2015_Hauptwache_Frankfurt_Main.jpg|
+File:1_leblon_aerial_2014.jpg|
+File:141019 Sprung über die Spree und Paul-Löbe-Haus.jpg|
+File:150118 At Nanpeidai Takatsuki Osaka pref Japan04o.JPG|
+File:2014_Erywań,_Oriflame_Fashion_Night_(01).jpg|
+File:2014_Erywań,_Ulica_Tamaniana_6_(01).jpg|
+File:2014_Kłodzko,_ul._Grottgera_13.JPG|
+File:2014_Kłodzko,_ul._Grunwaldzka.JPG|
+File:2014_Kłodzko_ul._Wojska_Polskiego_11_01.JPG|
+File:2014_Kłodzko_ul._Wojska_Polskiego_11_02.JPG|
+File:'s-Hertogenbosch, van Lanschot Bankiers in het Pasleiskwartier foto4 2015-03-08 08.54.jpg|
+File:2015_Kłodzko,_stare_miasto_01.JPG|
+File:2015_Kłodzko,_stare_miasto_02.JPG|
+File:2015_Kłodzko,_ul._Armii_Krajowej_01.JPG|
+File:Koblenz, Kapuzinerkirche (2015-09-15 3882).JPG|
+File:Koblenz,_Moselufer_--_2015_--_7635.jpg|
+File:Kurskaya_Street_SPB_01.jpg|
+File:Kvarteret_Fänriken_September_2015_02.jpg|
+File:La_Roche-en-Ardenne_L'Ourthe_vers_l'amont.jpg|
+File:Landscape_of_Naples.jpg|
+File:Marina-Bay_Singapore_Firework-launching-CNY-2015-05.jpg|
+File:Olargues,_Hérault_02.jpg|
+File:Olargues,_Hérault_03.jpg|
+File:Palau-centre.jpg|
+File:Palazzo_dei_Camerlenghi_e_Ponte_Rialto_a_Venezia.jpg|
+File:Cahors vue pano.jpg|
+File:Capitol_Hill_as_seen_from_9th_and_Pine_looking_east_towards_Bellevue,_WA.jpg|
+File:Capitolhill_panorama_1_natural.jpg|
+File:Cappella_di_Santa_Giulia_Cazzago.jpg|
+File:Cardona March 2015-11a.jpg|
+File:Carnegie_Mellon_University_as_seen_from_the_Cathedral_of_Learning.jpg|
+File:Casas de Esper, Zaragoza, España, 2015-01-06, DD 01.jpg|
+File:20150716_Mexico_City_at_Night_IMG_6614_by_sebaso.jpg|
+File:A642_Luberon_(ship,_2002),_Quai_d'Alger,_Sète_01.jpg|
+File:High rise view of Capitol Hill at night, looking east from Pine and 9th.jpg|
+File:Aerial view of Freeway Park at night, looking south from Pine and 9th.jpg|
+File:Athens south from the road to Acropolis, Athens, Greece.jpg|
+File:Binnenhof,_The_Hague_-hu-1777.jpg|
+File:Brodnica, Duży Rynek.JPG|
+File:Christianshavns_Kanal_Copenhagen_Christianshavn_2014_02.jpg|
+File:Chur_Arkas_2015.jpg|
+File:Chur_Bankstrasse.jpg|
+File:Chur_Grabenstrasse_2015.jpg|
+File:Chur_Süsswinkelgasse_2015.jpg|
+File:Churwalden_vom_Westen.jpg|
+File:Cochem,_Moselufer_--_2015_--_7611.jpg|
+File:Cochem,_Reichsburg_--_2015_--_7610.jpg|
+File:Cologne_Germany_Chocolate-Museum-01.jpg|
+File:Cologne_Germany_Kranhaus-02.jpg|
+File:Cologne_Germany_Kranhaus-03.jpg|
+File:Cologne_Germany_Kranhaus-03a.jpg|
+File:Cologne_Germany_Kranhaus-04.jpg|
+File:Cologne_Germany_Ship-Johanna-01.jpg|
+File:Croatia_BW_2014-10-08_12-47-24.jpg|
+File:Croatia_BW_2014-10-10_12-34-29.jpg|
+File:Croatia_Pula_2014-10-11_11-30-48.jpg|
+File:Croatia_Pula_2014-10-11_11-59-26.jpg|
+File:Croatia_Pula_2014-10-11_12-00-29.jpg|
+File:Croatia_Pula_2014-10-11_12-01-24.jpg|
+File:Berlin - 0339 - 17052015 - Potsdamer Platz.jpg|
+File:Bernkastel-Kues,_Blick_auf_Kues_--_2015_--_7557.jpg|
+File:Bernkastel-Kues,_Blick_auf_Kues_--_2015_--_7563.jpg|
+File:Bernkastel-Kues,_Blick_auf_Kues_--_2015_--_7564.jpg|
+File:20150415_Zelený_most_Ostrava_báňské_nádraží.jpg|
+File:Alhambra palace and surrounding area.jpg|
+File:Aspen_City_Hall_and_Galena_Street.jpg|
+File:Bad Wörishofen, Luitpold-Leusser-Platz mit Kurhaus (2012-07-24).JPG|
+File:Bristol MMB «W4 Cumberland Basin.jpg|
+File:Cardona March 2015-5bw.jpg|
+File:Haltern_am_See,_Gantepoth_--_2014_--_4249-53.jpg|
+File:KotaKinabalu_Sabah_Sabah-Art-Gallery-02.jpg|
+File:Kungsträdgården_April_2015_02.jpg|
+File:Loarre,_Huesca,_España,_2015-01-06,_DD_08.JPG|
+File:London MMB »0C1 Millwall Dock.jpg|
+File:London MMB »1T4 River Thames.jpg|
+File:Albeck Sirnitz 5 Mesnerei und barocker Karner 06052015 3237.jpg|
+File:Alexanderplatz in Berlin - Panorama.jpg|
+File:Alpine resort Gazprom in Krasnaya Polyana.jpg|
+File:Amman-Traffic.JPG|
+File:Amsterdam_(NL),_Anne-Frank-Huis_--_2015_--_7185.jpg|
+File:Amsterdam_(NL),_Centraal_Station_--_2015_--_7265.jpg|
+File:Amsterdam_(NL),_Centraal_Station_--_2015_--_7269.jpg|
+File:Amsterdam_(NL),_Gedempte_Begijnensloot_--_2015_--_7208.jpg|
+File:Antwerp July 2015-3.jpg|
+File:Babylon_Complex_-_Den_Haag_Centraal_Station--2.jpg|
+File:Bahntower,_Potsdamer_Platz,_Berlin,_Germany,_2014-07-13-3372.jpg|
+File:Balchug Street in Moscow 2015.jpg|
+File:Barques_de_Cettarames._Sète_02.jpg|
+File:Bastionsplatsen_September_2015_01.jpg|
+File:Bastionsplatsen_September_2015_02.jpg|
+File:Bastionsplatsen_September_2015_03.jpg|
+File:Bellevue_skyline_from_Lake_Washington.JPG|
+File:Altenstein-266178.jpg|
+File:2014_Kłodzko,_starówka_04.JPG|
+File:Girona Panoramic.jpg|
+File:Lomnice (Lomnitz), Moravia.jpg|
+File:Pano_Volkertmarkt-0748_und_750-Bearbeitet.jpg|
+File:West_Pender_Street_01.JPG|
+File:London MMB »060 Canary Wharf.jpg|
+File:Wuppertal-Beyenburg(1).JPG|
+File:Wuppertal_(OLS)_03_ies.jpg|
+File:KotaKinabalu_Sabah_Wawasan-Plaza-01.jpg|
+File:Istanbul_Bosphorus_IMG_7897_1920.jpg|
+File:Zappeion from Acropolis, Athens, Greece.jpg|
+File:View_of_Naples_with_Vesuvio.jpg|
+File:Puck, Plac Wolności.jpg|
+File:Panoramica_of_Caprarola_seen_from_Palazzo_Farnese.jpg|
+File:Kuala_Lumpur_Malaysia_Skyline-of-Kuala-Lumpur-Sentral-01.jpg|
+File:KotaKinabalu_Sabah_Karamunsing-Complex-02.jpg|
+File:Singapore_The-Float-at-Marina-Bay-03.jpg|
+File:Panorama_of_Abbazia_di_Farfa.jpg|
+File:West_Cordova_Street_Vancouver_01.JPG|
+File:Sandakan_Sabah_Kampung-Bambangan-02.jpg|
+File:Saint Léger (Estaimpuis)..jpg|
+File:Rio_de_Santa_Fosca_Venezia.jpg|
+File:Rio_de_la_Pieta_Venezia.jpg|
+File:Leopoldstrasse,_München,_Deutschland.jpg|
+File:Slussen_May_2015.jpg|
+File:Palazzo_Labia_in_Venice_on_Cannaregio_canal_view_from_Canal_Grande.jpg|
+File:Palazzo_dei_Consoli,Gubbio.jpg|
+File:Villach Innenstadt Congress Center über Drauterrassen mit Drauschiff 03082015 6411.jpg|
+File:South_view_of_Haugesund_20150618_1.jpg|
+File:2014_Bystrzyca_Kłodzka,_stare_miasto_05.JPG|
+File:Torre Sevilla desde Puente de la Barqueta.jpg|
+File:Töölönlahti2.jpg|
+File:Töölönlahti1.jpg|
+File:Stora_Essingen_May_2015.jpg|
+File:Aspen_south_Galena_street.jpg|
+File:View_of_Alberobello.jpg|
+File:Gustav-Kirchhoff-Platz_von_Süden.jpg|
+File:Wien_7_Urban-Loritz-Platz_Zeltdach.jpg|
+File:Webysther_20150427002640_-_Edifícios_Terraço_Itália_e_Copan.jpg|
+File:Vieussan,_Hérault_12.jpg|
+File:Singapore_Flower-Dome-and-Cloud-Forest-in-The-Gardens-02.jpg|
+File:Sighnaghi_IMG_9086_1920.jpg|
+File:Montreal-Canada037.jpg|
+File:Midtown_Manhattan_from_Queens_May_2015_001.jpg|
+File:Taipei_Taiwan_228-Memorial-Park-01.jpg|
+File:Singapore_High-rises-at-Marina-Bay-02.jpg|
+File:Widoki_z_twierdzy_Forte_Mare_na_Herceg_Novi_05.jpg|
+File:Volkertmarkt-0767-Bearbeitet.jpg|
+File:Sète_from_Mount_Saint-Clair_by_night_01.jpg|
+File:Sète_from_Mount_Saint-Clair_at_evening_01.jpg|
+File:Scuola_Grande_di_San_Marco_e_.jpg|
+File:Πλατεία Συντάγματος 1047.jpg|
+File:Λιμάνι Ηρακλείου 9866.JPG|
+File:Ερέτρια 1400.jpg|
+File:Zwolle, sculptuur bij het Hanzeplein in straatzicht foto3 2015-06-15 10.31.jpg|
+File:Τοπανάς 8353.jpg|
+File:Πλατεία Έλενας Βενιζέλου 8442.jpg|
+File:Παλιό λιμάνι Χανίων 8190.jpg|
+File:Οδός Σκουφών 8343.jpg|
+File:Οδός Σαρπάκη 8773.jpg|
+File:Ναυτικό Μουσείο Χανίων 8171.jpg|
+File:Ακτή Τομπάζη Χανιά 8333.jpg|
+File:Αθήνα 6875 hdr.JPG|
+File:York MMB 46 River Ouse.jpg|
+File:Vista_de_Moros,_Zaragoza,_España,_2015-01-05,_DD_37-51_HDR_PAN.JPG|
+File:Vista_de_Artajona,_Navarra,_España,_2015-01-06,_DD_01.JPG|
+File:Vista_de_Alicante,_España,_2014-07-04,_DD_49.JPG|
+File:View_from_the_Helsinki_Olympic_Stadium_tower2.jpg|
+File:View_from_the_Helsinki_Olympic_Stadium_tower1.jpg|
+File:Singapore_Skyline-01.jpg|
+File:Singapore_Singapore-Flyer-Ferris-wheel-01.jpg|
+File:Χανιά από επιπρομαχώνα Σιάβο 8322.jpg|
+File:Χανιά 8350.jpg|
+File:Singapore_The-Float-at-Marina-Bay-04.jpg|
+File:Wolfsberg Ansicht Altstadt mit Stadtpfarrkirche hl Markus 26082015 7001.jpg|
+File:Namur_Belgium_Old-town-01.jpg|
+File:Wolfsberg Ansicht Altstadt mit Stadtpfarrkirche und Schloss 26082015 7011.jpg|
+File:Novigrad_(Istria).jpg|
+File:Our_Lady_of_Mount_Carmel_and_St_Pauls_Pro-Cathedral.jpg|
+File:Panorama_of_Caprarola_with_Palazzo_Farnese.jpg|
+File:Panorama_of_Caprarola.jpg|
+File:San_Francisco_from_Twin_Peaks_September_2013_panorama_1.jpg|
+File:San_Francisco_from_Twin_Peaks_September_2013_panorama_2.jpg|
+File:San_Francisco_from_Twin_Peaks_September_2013_panorama_3.jpg|
+File:San_Francisco_from_Twin_Peaks_September_2013_panorama_4.jpg|
+File:San_Francisco_from_Twin_Peaks_September_2013_panorama_5.jpg|
+File:View_of_the_Kallio_neigbourhood..jpg|
+File:Webysther_20150428110918_-_Edifícios_Terraço_Itália_e_Copan.jpg|
+File:Gastown-13.JPG|
+File:Dominion_Building_Vancouver_10.JPG|
+File:Brännkyrkagatan_August_2015_02.jpg|
+File:Düsseldorf,_Neuer_Zollhof_--_2015_--_8179.jpg|
+File:Lycabettus hill from Acropolis Athens Greece.jpg|
+File:Woodward's_Building_Vancouver_04.JPG|
+File:Norwegian_Sun_Vancouver_02.JPG|
+File:Dominion_Building_Vancouver_12.JPG|
+File:15-07-Mexico-Vorauswahl-RalfR-WMA_0974.jpg|
+File:Izmir_03.jpg|
+File:2014_Erywań,_Widoki_z_Kaskad_(01).jpg|
+File:2014_Erywań,_Widoki_z_Kaskad_(02).jpg|
+File:2014_Erywań,_Widoki_z_Kaskad_(04).jpg|
+File:2014_Erywań,_Widoki_z_Kaskad_(08).jpg|
+File:2014_Erywań,_Widoki_z_Kaskad_(12).jpg|
+File:Κύμη 8391.JPG|
+File:Κύμη 8398.jpg|
+File:Blick_von_der_Bel_Etage_des_Café_Landtmann_auf_das_Burgtheater_und_den_Universitätsring-0738.jpg|
+File:Sicht_auf_Kempten_Altstadt_Neustadt.jpg|
+File:Granville_Street_Vancouver_03.JPG|
+File:Royal_Bank_Building_Vancouver_01.JPG|
+File:Pyskowice (Peiskretscham) - market square.JPG|
+File:Singapore_Old-Supreme-Court-Building-01.jpg|
+File:Piran_old_town_St_George.jpg|
+File:Grazalema_Spain_View-of-Grazalema-01.jpg|
+File:Robson_Square_Vancouver_02.JPG|
+File:Seat_of_the_European_Central_Bank_and_Frankfurt_Skyline_at_dawn_20150422_1.jpg|
+File:Ponte_Sisto_and_Dome_od_St._Peter_at_night.jpg|
+File:Moros,_Zaragoza,_España,_2013-01-07,_DD_14.JPG|
+File:Tiber_Island_at_night.jpg|
+File:Tiber_and_Ponte_Sisto.jpg|
+File:Ponte_Sisto_and_Dome_od_St._Peter_at_Night.jpg|
+File:Pons_Cestius_at_night.jpg|
+File:Bridge_Principe_Amedeo_Savoia_Aosta_at_night.jpg|
+File:Bridge_Principe_Amedeo_Savoia_Aosta_at_Night.jpg|
+File:Ponte_Sisto_at_night.jpg|
+File:Ponte_Sisto_at_Night.jpg|
+File:Montreal-Canada027.jpg|
+File:Ρέθυμνο 2822.jpg|
+File:2014_Erywań,_Erebuni,_Widok_z_twierdzy_Erebuni_(13).jpg|
+File:Istanbul_Bosphorus_Dolmabahçe_Mosque_IMG_7904_1920.jpg|
+File:Long_Island_City_New_York_May_2015_panorama_1.jpg|
+File:Montreal-Canada010.jpg|
+File:Χανιά 8169.JPG|
+File:Echternach_Place_du_Marché_R02.jpg|
+File:Volto_Santo_Cannaregio_Venezia.jpg|
+File:Long_Island_City_New_York_May_2015_panorama_3.jpg|
+File:Huizen van Laaxum onderaan de dijk. Locatie. Haven van Laaxum 02.jpg|
+File:2015_Kolumna_Maryjna_w_Radkowie_05.jpg|
+File:Οδός Λεβίδου 7899.jpg|
+File:Οδός Χατζημιχάλη Νταλιάνη Χανιά 8774.jpg|
+File:Volkertmarkt-0766.jpg|
+File:14-06-30-colmar-by-RalfR-083.jpg|
+File:14-06-30-colmar-by-RalfR-079.jpg|
+File:14-06-30-colmar-by-RalfR-124.jpg|
+File:Il_Canal_Grande_con_veduta_verso_San_Geremia_Venezia.jpg|
+File:Οδός Χάληδων 8112.jpg|
+File:Rio_del_Megioverso_Canal_Grande.jpg|
+File:Χανιά λιμάνι 8372.jpg|
+File:Kornplatz_Bozen_2015.jpg|
+File:Obstmarkt_Torgglhaus_Bozen_2015.jpg|
+File:The_squero_San_Trovaso_and_church_in_Venice.JPG|
+File:Πάροδος Χανιά 8330 rt.jpg|
+File:2015_Sokal,_Kamienice_na_placu_w_centrum_miasta.JPG|
+File:Κύμη 8393.JPG|
+File:2015_Kolumna_Maryjna_w_Radkowie_03.jpg|
+File:Central_Park_New_York_May_2015_001.jpg|
+File:Radovljica Linhartov Trg 22-26 13052015 3713.jpg|
+File:Radovljica Linhartov Trg Schloss Thurn 13052015 3703.jpg|
+File:150328 Namba Parks Osaka Japan01bs3.jpg|
+File:Konvojgatan_May_2015.jpg|
+File:Odos S.Xanthoudidou Rethymno Crete Greece.jpg|
+File:2015_Sokal,_Plac_w_centrum_miasta_01.JPG|
+File:Fontana_in_piazza_Paolo_VI_Brescia_armata_Callegari.jpg|
+File:2015_Bazylika_w_Wambierzycach_05.jpg|
+File:Binnenhof,_The_Hague_-hu-1809.jpg|
+File:Lower_Manhattan_from_Jersey_City_July_2014_001.jpg|
+File:Richmond_Federal_Appeals_Court_and_skyline_VA1.jpg|
+File:Monsanto April 2015-7.jpg|
+File:Σταμάτα 7981.jpg|
+File:Humber Bay Park East2.JPG|
+File:Humber Bay Park East.jpg|
+File:2014_Erywań,_Kaskady_(31).jpg|
+File:2014_Erywań,_Widoki_z_Kaskad_(10).jpg|
+File:2014_Erywań,_Widoki_z_Kaskad_(06).jpg|
+File:Drottningholms_slott_April_2015_02.jpg|
+File: Mülheim-Kärlich, Burg-, Heeres-, W'th. Str. (2013-07-02).JPG|
+File:2014_Porto_de_Porto_do_Son._Galiza-P18.jpg|
+File:Residential area, Vaishali, Delhi.jpg|
+File:Istanbul_Galata_Tower_IMG_8211_1920.jpg|
+
+File:Panorama_of_Locorotondo.jpg|
+File:Esplanadi,_Helsinki,_Finlandia,_2012-08-14,_DD_01.JPG|
+File:Greven,_Kesselhaus_und_Ballenlager_--_2014_--_9869_--_Ausschnitt.jpg|
+File:London MMB »0I8 Canary Wharf.jpg|
+File:Church_of_St._George_in_Locorotondo.jpg|
+File:Indianapolis_Artsgarden,_Indianápolis,_Estados_Unidos,_2012-10-22,_DD_01.jpg|
+File:Singapore_Marina-Bay-Panorama-04.jpg|
+File:2014_Erywań,_Widoki_z_Kaskad_(03).jpg|
+File:2014_Bardo,_ul._Główna_6,_01.JPG|
+File:Tbilisi_IMG_8850_1920.jpg|
+File:Poertschach Zentrum Blick von Hoher Gloriette 26032015 0605.jpg|
+File:Piazza_Sant'Ambrogio1.jpg|
+File:2014._Santo_André_de_Teixido._Cedeira._Galiza._Tx02.jpg|
+File:Pano_2_nach_Westen_Volkertmarkt-0803-Bearbeitet.jpg|
+File:2014_Muxía_-_Galiza.jpg|
+File:Florence_Italy_Ponte-Vecchio-01.jpg|
+File:Cardona March 2015-3a.jpg|
+File:Florence_Italy_Synagogue-of-Florence-01.jpg|
+File:Singapore_Marina-Bay-Panorama-02.jpg|
+File:Singapore_Singapore-Sports-Hub-with-National-Stadium-01.jpg|
+File:Montmartre Maison Rose 002.JPG|
+File:Juist,_Bahnhofstraße_--_2014_--_3684-8.jpg|
+File:Via_Dante.jpg|
+File:Castelnou21.jpg|
+File:Χανιά 4261 p.JPG|
+File:14-08-05-cerdanyola-RalfR-004.jpg|
+File:Sesimbra March 2015-9a.jpg|
+File:Kärnten_Maria_Wörth_Kirchen_2010_06.jpg|
+File:Djurgårdsstaden_Mars_2015_16.jpg|
+File:Djurgårdsstaden_Mars_2015_06.jpg|
+File:2015-02-21_Samstag_am_Karmelitermarkt_Wien_-_9389.jpg|
+File:Ρέθυμνο 3116.JPG|
+File:Cardona March 2015-8a.jpg|
+File:2014_Kłodzko,_ul._Braci_Gierymskich_6-12.JPG|
+File:2015-03-04_Skyline_Frankfurt_Main_Hesse_Germany.jpg|
+File:Archidona_View.jpg|
+File:2014_Kłodzko,_pl._Chrobrego_9_02.jpg|
+File:Nollevaux, église Saint-Urbain in straatzicht foto5 2014-0612 11.32.jpg|
+File:Barcelona_parc_Güell_la_placa_2013_04.jpg|
+File:Staithes MMB 29.jpg|
+File:L'Ile d' Aix.- Mairie.jpg|
+File:London MMB O9 Cabot Square.jpg|
+File:Spitz_Kirchenplatz_Brunnen_2012_09.jpg|
+File:London MMB «P4 River Thames.jpg|
+File:Ga_Tháp_Chàm.jpg|
+File:Juist,_Strandstraße_--_2014_--_3682.jpg|
+File:Historic_centre_of_Agrigento_seen_from_the_Valle_dei_Templi_-_Italy_2015_(2).JPG|
+File:View_of_Tropea_from_La_Sanità_-_Italy_2015_(4).JPG|
+File:Trinidad vue centre.jpg|
+File:Suresnes - Écluse de Suresnes 001 crop.jpg|
+File:Klagenfurt Woelfnitz Sankt Peter am Bichl Ost-Ansicht 03032015 0156.jpg|
+File:2014_Kłodzko,_stare_miasto.JPG|
+File:Münster,_Wohnanlage_Boeselagerstraße_--_2014_--_8349_--_Ausschnitt.jpg|
+File:2014_Erywań,_Erebuni,_Widok_z_twierdzy_Erebuni_(10).jpg|
+File:Purullena.jpg|
+File:Vilnius Modern Skyline, Lithuania - Diliff.jpg|
+File:London MMB »0N5 Canada Water.jpg|
+File:Klagenfurt Tarviser Strasse Rizzibruecke ueber Lendkanal 07102008 1057.jpg|
+File:Warendorf,_St.-Laurentius-Kirche_--_2014_--_8605_--_Ausschnitt.jpg|
+File:Esplanada_del_Monasterio_de_Ostrog,_Montenegro,_2014-04-14,_DD_07.JPG|
+File:Istanbul_Bosphorus_Dolmabahce_Mosque_IMG_7575_1800.jpg|
+File:2014_Erywań,_Erebuni,_Widok_z_twierdzy_Erebuni_(17).jpg|
+File:London MMB «N4 Millwall Dock.jpg|
+File:Poertschach Werzer-Bad 01032015 0220.jpg|
+File:North_view_of_Auckland_CBD_as_seen_from_ferry_20100408_1.jpg|
+File:2015-02-21_Samstag_am_Karmelitermarkt_Wien_-_9407.jpg|
+File:Soest,_St.-Petri-Kirche_und_St.-Patrokli-Dom_--_2014_--_8756_--_Ausschnitt.jpg|
+File:2014_Erywań,_Erebuni,_Widok_z_twierdzy_Erebuni_(11).jpg|
+File:2014_Erywań,_Erebuni,_Widok_z_twierdzy_Erebuni_(12).jpg|
+File:2014_Kłodzko,_starówka_10.JPG|
+File:2014_Kłodzko,_starówka_11.JPG|
+File:Ermita_de_San_Roque,_Calatayud,_Aragón,_España,_2014-07-12,_DD_35.jpg|
+File:Juist,_Hafen_--_2014_--_3561.jpg|
+File:Juist,_Hafen_--_2014_--_3560.jpg|
+File:Münster,_Studenten-Wohnanlage_Boeselagerstraße_--_2014_--_8238_--_Ausschnitt.jpg|
+File:Juist,_Hafen_--_2014_--_3576.jpg|
+File:2015-02-21_Samstag_am_Karmelitermarkt_Wien_-_9449.jpg|
+File:Lijiang_Yunnan_China-Evening-atmosphere-in-old-town-Lijiang-01.jpg|
+File:Haltern_am_See,_St.-Sixtus-Kirche_--_2014_--_8931_--_Ausschnitt.jpg|
+File:Bristol MMB «K1 The Galleries.jpg|
+File:Grünburg_Schmiedleithen_Altes_Herrenhaus_ua.jpg|
+File:Poertschach Gaisrueckenstrasse Abzweigung Tscheberweg 07022015 9583.jpg|
+File:2012 Jastrzębie-Zdrój, Park Zdrojowy (03).jpg|
+File:Parque_en_Casco_Historico._Trinidad.JPG|
+File:Trier_BW_2014-06-17_08-45-52.jpg|
+File:Vilniaus Street Scene, Kaunas, Lithuania - Diliff.jpg|
+File:Glandorf,_St.-Johannis-Kirche_--_2014_--_8544_--_Ausschnitt.jpg|
+File:2014_Erywań,_Widok_na_dachy_domów_i_bloki_mieszkalne_w_dzielnicy_Kentron_(01).jpg|
+File:London MMB «O3 Canary Wharf.jpg|
+File:Crossharbour DLR station MMB 06.jpg|
+File:Ρέθυμνο 2988.JPG|
+File:Nizza Hafen.jpg|
+File:Panorama Langscheid (Sorpesee).jpg|
+File:Jaisalmer_Panorama.jpg|
+File:London MMB »1A5 Canary Wharf.jpg|
+File:Pritsimaja, Tallinn.JPG|
+File:Tallinna vanalinn*.JPG|
+File:Gediminas Avenue 1, Vilnius, Lithuania - Diliff.jpg|
+File:Adiyaman, Turkey 02.jpg|
+File:Poertschach Werzer Lakes Parkhotel 18022015 7589.jpg|
+File:Adiyaman, Turkey 03.jpg|
+File:Adiyaman, Turkey 01.jpg|
+File:Mustafapaşa, Nevşehir 04.jpg|
+File:Rorup,_St.-Agatha-Kirche_--_2014_--_9181_--_Ausschnitt.jpg|
+File:Ρέθυμνο 2926 p.JPG|
+File:Bromstens skola September 2014.jpg|
+File:Norr_Mälarstrand_February_2015.jpg|
+File:Pößnecker_Straße_Ranis.jpg|
+File:2014_Suchum,_Nabrzeże_(11).jpg|
+File:Kuala_Lumpur_Malaysia_Chan-She-Shu-Yuen-Clan-Association-04.jpg|
+File:Kuala_Lumpur_Malaysia_Petronas-Twin-Towers-01.jpg|
+File:London MMB «H2 City Canal, HMS Richmond.jpg|
+File:Museumsinsel_and_Bode-Museum,_West_view_20130724_1.jpg|
+File:London MMB X2 Canary Wharf.jpg|
+File:Prats-de-mollo2.jpg|
+File:14-06-04-olomouc-RalfR-34.jpg|
+File:Ρέθυμνο 2972.JPG|
+File:Vaxholmsleden_February_2013_02_(crop).jpg|
+File:07-17-2012_-_Oia_-_Santorini_-_Greece_-_09.jpg|
+File:View_of_Madrid_and_Río_Manzanares_from_Téleferico_20111029_1.jpg|
+File:2014_Nysa,_stare_miasto_03.JPG|
+File:University of East London MMB 02 Royal Albert Dock.jpg|
+File:View_of_Sutri.jpg|
+File:2014_Nysa,_Rynek_01.JPG|
+File:2014_Nysa,_Rynek_03.JPG|
+File:2014_Nysa,_Rynek_05.JPG|
+File:2014_Nysa,_stare_miasto_01.JPG|
+File:Kunrade, straatzicht Heerlerweg-Pontstraat foto2 2014-09-28 11.29.jpg|
+File:View_of_the_southern_part_of_Lake_Yue,_Ningbo_20120531_1.jpg|
+File:Edificio_en_la_calle_Cirilo_Amorós,_Valencia,_España,_2014-06-29,_DD_10.JPG|
+File:2014_Bystrzyca_Kłodzka,_wójtostwo_03.JPG|
+File:Pößneck_Breite_Straße.jpg|
+File:2014_Międzylesie,_pl._Wolności_15,_05.JPG|
+File:Whitby MMB 25 Harbour.jpg|
+File:14-08-06-cerdanyola-RalfR-001.jpg|
+File:Widok_z_zamku_na_miasto_Kruja_2.jpg|
+File:Rynek_w_Żorach_2.JPG|
+File:London MMB »1K4 Millwall Dock.jpg|
+File:Haltern_am_See,_Siebenteufelsturm_--_2014_--_5939.jpg|
+File:2014_Wodospad_i_jaz_w_Kłodzku.jpg|
+File:Minor_skyscrapers_in_Lujiazui,_Shanghai_as_seen_from_Lujiazui_Pedestrian_Bridge_20120602_1.jpg|
+File:2014_Suchum,_Widok_na_ulicę_Titowa.jpg|
+File:2015_Wójtówka_01.jpg|
+File:2015_Wójtówka_03.jpg|
+File:Techelsberg Sankt Martin Pfarrhof und Pfarrkirche 31012015 724.jpg|
+File:Sighnaghi_IMG_9071_1920.jpg|
+File:Katarinavägen_January_2015.jpg|
+File:Avanos 01.jpg|
+File:Bouzigues,_Hérault_08.jpg|
+File:07-17-2012_-_Oia_-_Santorini_-_Greece_-_46.jpg|
+File:Ilz Hauptplatz.JPG|
+File:Kuala_Lumpur_Malaysia_Petronas-Twin-Towers-02.jpg|
+File:ECB_headquarters,_Frankfurt_140827_1.jpg|
+File:Conglomerado_BMW,_Múnich,_Alemania_2012-04-28,_DD_04.JPG|
+File:Dülmen,_Hermann-Leeser-Schule_--_2014_--_3374.jpg|
+File:Pont de Grenelle as seen from Pont Mirabeau, Paris 10 April 2014.jpg|
+File:Fishermen_on_Galata_Bridge.JPG|
+File:Fujisawa_as_seen_from_Enoshima_Island_130809_7.jpg|
+File:Berwick-upon-Tweed MMB 05.jpg|
+File:Den_gamle_by_7.jpg|
+File:Den_gamle_by_6.jpg|
+File:13-08-09-hongkong-by-RalfR-108.jpg|
+File:2014_Park_w_Tarnowie,_09.JPG|
+File:Arrêt_de_bus_CTPM_-_Le_Barcarès.jpg|
+File:Aerial view of Uçhisar 01.jpg|
+File:Uçhisar Castle 05.jpg|
+File:2014 Kłodzko, most gotycki 21.jpg|
+File:London MMB »1I5 Adelaide Road.jpg|
+File:Slussen_January_2015_19.jpg|
+File:2014_Rynek_w_Międzylesiu,_04.JPG|
+File:Bouzigues,_Hérault_10.jpg|
+File:Rue_des_Beauces,_Bouzigues_01.jpg|
+File:13-08-08-hongkong-by-RalfR-090.jpg|
+File:Dammühle Marburg Haupthaus 01.jpg|
+File:Madonna_in_Prato2.jpg|
+File:St_Paul's_Cathedral_Dome_from_One_New_Change.jpg|
+File:13-08-09-peak-by-RalfR-03.jpg|
+File:Ornaro_Alta.jpg|
+File:Kuala-Lumpur Malaysia Berjaya-Times-Square-05.jpg|
+File:View_of_Erbach_im_Rheingau,_showing_market_place_and_town_hall_20150123_2.jpg|
+File:Αρχάνες 169.JPG|
+File:Westferry DLR station MMB 16.jpg|
+File:Straße in Marburg.jpg|
+File:13-08-08-hongkong-by-RalfR-088.jpg|
+File:Trier_BW_2014-06-17_08-12-30.jpg|
+File:TorreondelMonje-MDP-ene2015.jpg|
+File:13-08-09-peak-by-RalfR-01a.jpg|
+File:2014 Kłodzko, most gotycki 20.jpg|
+File:2014_Kłodzko.jpg|
+File:13-08-08-hongkong-by-RalfR-104.jpg|
+File:View_of_Erbach_im_Rheingau_20150123_1.jpg|
+File:2014_Suchum,_Nabrzeże_(13).jpg|
+File:2014_Bystrzyca_Kłodzka,_stare_miasto_13.jpg|
+File:London MMB «82 Westferry Circus.jpg|
+File:2014_Park_w_Tarnowie,_08.JPG|
+File:Bouzigues,_Hérault_07.jpg|
+File:Uçhisar, Cappadocia 03.jpg|
+File:Pfarrkirche_Sankt_Martin_an_der_Raab_02.jpg|
+File:14-06-03-olomouc-RalfR-23.jpg|
+File:2014_Rynek_w_Międzylesiu,_01.JPG|
+File:Poertschach Johannes-Brahms-Promenade Hotel Astoria und Badehaeuser 19012014 334.jpg|
+File:Blasieholmstorg_January_2014.jpg|
+File:Juist,_Dorf_--_2014_--_3478.jpg|
+File:2014_Rynek_w_Ząbkowicach_Śląskich,_03.JPG|
+File:London MMB «N9 Canary Wharf.jpg|
+File:Beringbrunnen Marburg (3).jpg|
+File:2014_Zespół_klasztorny_w_Krzeszowie.JPG|
+File:2014_Rynek_w_Ząbkowicach_Śląskich,_04.JPG|
+File:2014_Rynek_w_Ząbkowicach_Śląskich,_05.JPG|
+File:Auckland_Skyline_as_seen_from_Devonport_20100128_3.jpg|
+File:Pudding Mill Lane DLR station MMB 16.jpg|
+File:London MMB »1G1 River Thames.jpg|
+File:KotaKinabalu_Sabah_1borneo-01.jpg|
+File:Blick vom Stadtturm des Alten Rathauses zum Innsbrucker Dom 1.JPG|
+File:Blick über Kufstein von der Festung aus.JPG|
+File:07-17-2012_-_Oia_-_Santorini_-_Greece_-_35.jpg|
+File:Bouzigues,_Hérault_05.jpg|
+File:Rinne und Schloss Marburg.jpg|
+File:Ηράκλειο 4795.JPG|
+File:Cerro_Alegre,_Valparaíso,_Chile2.jpg|
+File:Telč_-_pohled_na_vnitřní_město_přes_Ulický_rybník.jpg|
+File:Náměstí_Zachariáše_z_Hradce,_Telč.jpg|
+File:Náměstí_Zachariáše_z_Hradce,_Telč_(04).jpg|
+File:London MMB »0D7 Canary Wharf.jpg|
+File:Berlin_Hauptbahnhof_Blick_von_Ludwig-Erhard-Ufer.jpg|
+File:View from Hallgrímskirkja 4.JPG|
+File:View from Hallgrímskirkja 13.JPG|
+File:View from Hallgrímskirkja 12.JPG|
+File:Götgatan_January_2015.jpg|
+File:2015-01-01_Kronprinzenbrücke.jpg|
+File:Haci Bayram Cami Park 03.jpg|
+File:Centro_Cultural_de_Bancaja_en_la_calle_General_Tovar,_Valencia,_España,_2014-06-30,_DD_84.JPG|
+File:Hamngatan_January_2015.jpg|
+File:Buildings_near_Kauppatori_and_Helsinki_Cathedral_20100825_1.jpg|
+File:Buildings_at_the_south_tip_of_Stadsholmen,_Stockholm_20100824_1.jpg|
+File:140810_Berlin_Mauerpark.jpg|
+File:BremenSchlachte-02.jpg|
+File:Calle Dunkri, Tallin, Estonia, 2012-08-05, DD 02.jpg|
+File:Riverside shops, Frankenmuth, Michigan, 2015-01-11 02.jpg|
+File:Bavarian Inn Lodge, Frankenmuth, Michigan, 2015-01-11 01.jpg|
+File:07-17-2012_-_Oia_-_Santorini_-_Greece_-_32.jpg|
+File:2015_Wieża_mieszkalna_w_Żelaźnie_03.jpg|
+File:Stadthausquai_and_St._Peter,_Zürich_20120626_1.jpg|
+File:Brighton MMB 06 Volks Electric Railway.jpg|
+File:Gallions Reach DLR station MMB 03 A1020 Royal Docks Road.jpg|
+File:Angoulême_16_Toits_végétalisés_2014.jpg|
+File:Rouen_France_Esplanade-du-Champs-de-Mars-01.jpg|
+File:Pontoon Dock DLR station MMB 04 Millennium Mills.jpg|
+File:London MMB «18 Canary Wharf.jpg|
+File:Köln,_Skulptur_-Solarvogel-_--_2014_--_1816.jpg|
+File:View from Spiegelturm B-Stresow.jpg|
+File:Landwehrkanal in B-Kreuzberg 07-2014.jpg|
+File:York MMB 52.jpg|
+File:2014_Lądek-Zdrój,_park_zdrojowy_01.JPG|
+File:2014_Kłodzko,_reklama_PZU_01.JPG|
+File:2014_Kłodzko,_dworzec_PKS_03.JPG|
+File:Casa_de_los_Abades_de_Pelplin,_Gdansk,_Polonia,_2013-05-20,_DD_03.jpg|
+File:Sergels_torg_2015_02.jpg|
+File:Västerlånggatan_January_2015.jpg|
+File:Sergels_torg_2015_01.jpg|
+File:Haci Bayram Cami Park 02.jpg|
+File:07-17-2012_-_Oia_-_Santorini_-_Greece_-_08.jpg|
+File:Buildings_at_crossing_of_Place_Maréchal_Foch_and_Rue_Urbain_IV,_Troyes_20140509_1.jpg|
+File:Tawau_Sabah_Eastern-Plaza-01.jpg|
+File:London skylines from Wolfe statue near Greenwich Observatory.jpg|
+File:London MMB »152 Canary Wharf.jpg|
+File:2014_Lądek-Zdrój,_park_zdrojowy_02.JPG|
+File:2014_Kłodzko,_starówka_12.jpg|
+File:Nonac_16_Rue_principale_D124_2014.jpg|
+File:14-09-02-oslo-RalfR-183.jpg|
+File:Arenastaden_September_2014_06.jpg|
+File:14-09-02-oslo-RalfR-187.jpg|
+File:Mall of Scandinavia September 2014 04.jpg|
+File:Slakthusområdet_September_2014_07.jpg|
+File:Rathaus_of_Zürich_and_Limmatquai_20120626_1.jpg|
+File:Smålandsgatan_January_2015.jpg|
+File:Museumsquartier_Wien,_Vorweihnachtsstimmung_2014_HDR_-_5504.jpg|
+File:View from Palau Nacional May 2013.jpg|
+File:14-09-02-oslo-RalfR-186.jpg|
+File:2014_Bożków,_kościół_śś._Piotra_i_Pawła_09.JPG|
+File:Manezhny_Lane_SPB.jpg|
+File:Schloss und Kirchen Marburg.jpg|
+File:London MMB »0D9 Canary Wharf.jpg|
+File:Οδός Καστρινογιαννάκη και το Καμπαναριό της Μεγάλης Παναγιάς 2725.jpg|
+File:Köln,_Hohenzollernbrücke_--_2014_--_1873.jpg|
+File:Elvas September 2013-27a.jpg|
+File:Aloxe-corton entre vignes.jpg|
+File:2014_Kłodzko,_ul._Szpitalna,_02.JPG|
+File:Park of 300 Years Spb - Main avenue.jpg|
+File:London MMB »125 Thames Barrier Park.jpg|
+File:Haltern_am_See,_Gänsemarkt_--_2014_--_5934.jpg|
+File:Oficina_de_Bomberos_del_Condado,_Piccadilly_Circus,_Londres,_Inglaterra,_2014-08-11,_DD_161.JPG|
+File:Cayenne_maison_créole_rue_Schoelcher_2013.jpg|
+File:Trier_BW_2014-04-21_10-27-08.jpg|
+File:St Julien en Born le Phare de Contis Plage.jpg|
+File:Kuala_Lumpur_Malaysia_Skyline-03.jpg|
+File:Estación_del_Norte,_Valencia,_España,_2014-06-30,_DD_123.JPG|
+File:Lisboa January 2015-7a.jpg|
+File:Trier_BW_2014-04-21_10-25-59.jpg|
+File:Cayenne_Maisons_créoles.jpg|
+File:Elvas September 2013-41.jpg|
+File:Hammarby_Sjöstad_January_2015.jpg|
+File:2014_Stare_miasto_w_Bardzie,_01.JPG|
+File:2014_Stare_miasto_w_Bardzie,_03.JPG|
+File:Juist,_ehem._Bahnhof_--_2014_--_3530.jpg|
+File:London MMB »030 Waterloo Millennium Pier, Palace of Westminster and Thames Embankment.jpg|
+File:Juist,_Dorf_--_2014_--_3526.jpg|
+File:Juist,_Dorf_--_2014_--_3522.jpg|
+File:Beffroi nuits-saint-georges2.jpg|
+File:Recklinghausen,_Marktplatz_--_2013_--_4877.jpg|
+File:Kuala_Lumpur_Methodist-1-2-Brickfields-Girl-Primary-School-02.jpg|
+File:2014_Kłodzko,_ul._Mickiewicza,_05.JPG|
+File:2014_Kłodzko,_ul._Mickiewicza,_03.JPG|
+File:Burgundy_St,_French_Quarter,_New_Orleans,_USA2.jpg|
+File:Zaragoza_-Z02.jpg|
+File:Tirana - Skanderbeg Square by night.JPG|
+File:Óbidos October 2014-6.jpg|
+File:EON_Ruhrgas_Blaue_Stunde_Winter_2014.jpg|
+File:Bouzigues,_Hérault_04.jpg|
+File:KotaKinabalu_Sabah_Karamunsing-Complex-01.jpg|
+File:14-08-13-helsinki-RalfR-20.jpg|
+File:Paris_Rue_du_Moulin-des-Prés_2014.jpg|
+</gallery>
