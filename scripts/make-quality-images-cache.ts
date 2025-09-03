@@ -4,7 +4,7 @@ import wtf from 'wtf_wikipedia';
 import fs from 'node:fs';
 import crypto from 'node:crypto';
 
-import { WikiImg } from '../src/WikiImg';
+import { WikiImg } from '../src/core/WikiImg';
 
 type AxiosCachedOptions<T> = {
     getDataFromResponse: (response: Axios.AxiosXHR<any>) => T;

@@ -36,5 +36,5 @@
         // Disallow features that require cross-file awareness
         "isolatedModules": true
     },
-    "include": ["scripts/*.ts"]
+    "include": ["scripts/*.ts", "src/core/*.ts"]
 }
