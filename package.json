@@ -1,11 +1,12 @@
 {
-    "name": "kideo",
+    "name": "random-media",
     "private": true,
     "version": "0.0.0",
     "type": "module",
     "scripts": {
         "dev": "vite",
         "build": "vue-tsc -b && vite build",
+        "build:gh-pages": "vue-tsc -b && vite build --base=/random-media/",
         "preview": "vite preview"
     },
     "dependencies": {
