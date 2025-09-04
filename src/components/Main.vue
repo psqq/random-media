@@ -12,7 +12,9 @@ const output = useTerminalOutput();
 
 const { width, height } = useWindowSize();
 
-const metaFetch = await useFetch('/wiki-images/chunks-meta.json').get().json();
+const metaFetch = await useFetch(`${import.meta.env.BASE_URL}wiki-images/chunks-meta.json`)
+    .get()
+    .json();
 
 const chunksCache = useChunksCache();
 const imageCache = useImageCache();
@@ -64,7 +66,7 @@ async function addRandomImageToQueue() {
         a = b;
         b += chunkInfo.count;
         if (a <= i && i < b) {
-            const chunk = await chunksCache.load(`/wiki-images/${chunkInfo.path}`);
+            const chunk = await chunksCache.load(`${import.meta.env.BASE_URL}wiki-images/${chunkInfo.path}`);
             const wImg = chunk[i - a];
             queue.value.push(wImg);
             return;
