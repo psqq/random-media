@@ -1,6 +1,6 @@
 import { createSharedComposable } from '@vueuse/core';
 import { onScopeDispose, ref } from 'vue';
-import type { WikiImg } from '../core/WikiImg';
+import { WikiImg } from '../core/WikiImg';
 import axios from 'axios';
 
 function useChunksCacheBase() {
@@ -16,6 +16,7 @@ function useChunksCacheBase() {
         if (!data) {
             throw new Error('no data for chunk');
         }
+        data = data.map((obj) => Object.assign(new WikiImg(), obj));
         cache.value.set(url, data);
         return data;
     };

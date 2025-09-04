@@ -5,6 +5,10 @@ import { ChunksMeta } from '../core/ChunksMeta.ts';
 import { computed, ref, watch } from 'vue';
 import { useChunksCache } from '../composables/useChunksCache.ts';
 import { useImageCache } from '../composables/useImageCache.ts';
+import type { WikiImg } from '../core/WikiImg.ts';
+import { useTerminalOutput } from '../composables/useTerminalOutput.ts';
+
+const output = useTerminalOutput();
 
 const { width, height } = useWindowSize();
 
@@ -35,18 +39,17 @@ const totalImages = computed(() => {
     return result;
 });
 
-const currentImg = ref('https://wikipedia.org/wiki/Special:Redirect/file/Gull_portrait_ca_usa.jpg');
+const currentImg = ref('');
 
-const queue = ref<string[]>([]);
+const queue = ref<WikiImg[]>([]);
 
 const loading = ref(false);
-const imgLoading = ref(false);
 
 watch(
     queue,
     () => {
-        for (const url of queue.value) {
-            imageCache.add(url);
+        for (const wImg of queue.value) {
+            imageCache.add(wImg.url);
         }
     },
     { deep: true }
@@ -63,7 +66,7 @@ async function addRandomImageToQueue() {
         if (a <= i && i < b) {
             const chunk = await chunksCache.load(`/wiki-images/${chunkInfo.path}`);
             const wImg = chunk[i - a];
-            queue.value.push(wImg.url);
+            queue.value.push(wImg);
             return;
         }
     }
@@ -75,7 +78,15 @@ async function next() {
     }
     try {
         loading.value = true;
-        currentImg.value = queue.value[0];
+        const wImg = queue.value[0];
+        currentImg.value = wImg.url;
+        let outputMsg = `The image from category ${JSON.stringify(wImg.category)} starts to show: `;
+        outputMsg += `<a href="${'https://commons.wikimedia.org/wiki/' + wImg.file}" target="_blank">${
+            wImg.file
+        }</a><br/>`;
+        outputMsg += `<a href="${wImg.url}" target="_blank">${wImg.url}</a><br/>`;
+        outputMsg += `<img src="${wImg.url + '?width=100'}"/>`;
+        output.add(outputMsg);
         queue.value.shift();
         await addRandomImageToQueue();
     } catch (err) {
