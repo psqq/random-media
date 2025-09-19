@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { useScreenOrientation, useWindowSize } from '@vueuse/core';
-import { computed, ref, watch } from 'vue';
+import { computed, ref, watch, watchEffect } from 'vue';
 import { useSettings } from '../composables/useSettings.ts';
 import type { WikiImgExt } from '../core/WikiImgExt.ts';
 
@@ -18,6 +18,8 @@ const loading = ref(false);
 
 const settings = useSettings();
 
+const orientationSelected = ref(false);
+
 watch(
     src,
     () => {
@@ -30,6 +32,7 @@ watch(
 
 const handleLoad = () => {
     loading.value = false;
+    orientationSelected.value = false;
 };
 
 const rImg = computed(() => {
@@ -48,8 +51,12 @@ const rWin = computed(() => {
     return r;
 });
 
-watch([rImg, rWin], () => {
+watchEffect(() => {
     if (!screenOrientation.isSupported) {
+        return;
+    }
+
+    if (loading.value || orientationSelected.value) {
         return;
     }
 
@@ -71,6 +78,8 @@ watch([rImg, rWin], () => {
     if ((r1 < 1 && r2 < 1) || (r1 > 1 && r2 > 1)) {
         return;
     }
+
+    orientationSelected.value = true;
 
     if (screenOrientation.orientation.value?.startsWith('portrait')) {
         screenOrientation.lockOrientation('landscape-primary');
