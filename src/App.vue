@@ -70,11 +70,12 @@ function nextOrientationSettings() {
         <button @click="showButtons = false">{{ 'H' }}</button>
     </div>
     <div
-        v-else
+        v-else-if="!tilde"
         class="no-buttons"
         @click="showButtons = true"
     ></div>
     <div
+        v-if="!tilde"
         class="next"
         @click="next"
     ></div>
