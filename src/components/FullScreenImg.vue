@@ -3,10 +3,11 @@ import { useScreenOrientation, useWindowSize } from '@vueuse/core';
 import { computed, ref, watch, watchEffect } from 'vue';
 import { useSettings } from '../composables/useSettings.ts';
 import type { WikiImgExt } from '../core/WikiImgExt.ts';
+import { useTerminalOutput } from '../composables/useTerminalOutput.ts';
 
 const props = defineProps<{ wImg: WikiImgExt | null }>();
 
-const emit = defineEmits(['click']);
+const emit = defineEmits(['click', 'error']);
 
 const windowSize = useWindowSize();
 
@@ -20,10 +21,15 @@ const settings = useSettings();
 
 const orientationSelected = ref(false);
 
+const errorMessage = ref('');
+
+const terminalOutput = useTerminalOutput();
+
 watch(
     src,
     () => {
         if (src.value) {
+            errorMessage.value = '';
             loading.value = true;
         }
     },
@@ -87,19 +93,34 @@ watchEffect(() => {
         screenOrientation.lockOrientation('portrait-primary');
     }
 });
+
+function onError() {
+    errorMessage.value = 'Error!';
+    terminalOutput.add(`<span style="color: red">Error loading image (${props.wImg?.file}): ${props.wImg?.url}</span>`);
+    emit('error');
+}
 </script>
 
 <template>
-    <div v-if="!src">Waiting image...</div>
-    <div v-else-if="loading">Loading image...</div>
-    <img
-        v-if="src"
-        :src="src"
-        :width="windowSize.width.value"
-        :height="windowSize.height.value"
-        @load="handleLoad"
-        @click="emit('click')"
-    />
+    <div
+        v-if="errorMessage"
+        style="color: red; margin: 20px"
+    >
+        {{ errorMessage }}
+    </div>
+    <template v-else>
+        <div v-if="!src">Waiting image...</div>
+        <div v-else-if="loading">Loading image...</div>
+        <img
+            v-if="src"
+            :src="src"
+            :width="windowSize.width.value"
+            :height="windowSize.height.value"
+            @load="handleLoad"
+            @error="onError"
+            @click="emit('click')"
+        />
+    </template>
 </template>
 
 <style scoped>
