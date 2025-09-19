@@ -1,12 +1,17 @@
 <script setup lang="ts">
 import { useFetch, useWindowSize } from '@vueuse/core';
-import FullScreenImg from './FullScreenImg.vue';
-import { ChunksMeta } from '../core/ChunksMeta.ts';
 import { computed, ref, watch } from 'vue';
 import { useChunksCache } from '../composables/useChunksCache.ts';
 import { useImageCache } from '../composables/useImageCache.ts';
-import type { WikiImg } from '../core/WikiImg.ts';
+import { useSettings } from '../composables/useSettings.ts';
 import { useTerminalOutput } from '../composables/useTerminalOutput.ts';
+import { ChunksMeta } from '../core/ChunksMeta.ts';
+import type { WikiImgExt } from '../core/WikiImgExt.ts';
+import FullScreenImg from './FullScreenImg.vue';
+
+defineExpose({
+    next,
+});
 
 const output = useTerminalOutput();
 
@@ -41,9 +46,9 @@ const totalImages = computed(() => {
     return result;
 });
 
-const currentImg = ref('');
+const currentImg = ref<WikiImgExt | null>(null);
 
-const queue = ref<WikiImg[]>([]);
+const queue = ref<WikiImgExt[]>([]);
 
 const loading = ref(false);
 
@@ -57,19 +62,56 @@ watch(
     { deep: true }
 );
 
-async function addRandomImageToQueue() {
-    const i = Math.floor(Math.random() * totalImages.value);
-    let a = 0,
-        b = 0;
+const settings = useSettings().settings;
 
-    for (const chunkInfo of meta.value.chunks) {
-        a = b;
-        b += chunkInfo.count;
-        if (a <= i && i < b) {
-            const chunk = await chunksCache.load(`${import.meta.env.BASE_URL}wiki-images/${chunkInfo.path}`);
-            const wImg = chunk[i - a];
-            queue.value.push(wImg);
-            return;
+function validateWikiImage(wImg: WikiImgExt) {
+    if (settings.value.orientation !== 'media-for-orientation') {
+        return true;
+    }
+    if (!wImg.width || !wImg.height) {
+        output.add(
+            `Skip ${JSON.stringify(wImg)} because no size and settings.value.orientation === ${
+                settings.value.orientation
+            }`
+        );
+        return false;
+    }
+
+    const r1 = width.value / height.value;
+    const r2 = wImg.width / wImg.height;
+
+    const diff = Math.abs(r1 - r2) / ((r1 + r2) / 2);
+    if (diff > 0.7) {
+        output.add(`Skip ${JSON.stringify(wImg)} because diff=${diff} > 0.7`);
+        return false;
+    }
+
+    return true;
+}
+
+async function addRandomImageToQueue() {
+    let done = false;
+    for (let j = 0; j < 100; j++) {
+        const i = Math.floor(Math.random() * totalImages.value);
+        let a = 0,
+            b = 0;
+
+        for (const chunkInfo of meta.value.chunks) {
+            a = b;
+            b += chunkInfo.count;
+            if (a <= i && i < b) {
+                const chunk = await chunksCache.load(`${import.meta.env.BASE_URL}wiki-images/${chunkInfo.path}`);
+                const wImg = chunk[i - a];
+                if (validateWikiImage(wImg)) {
+                    queue.value.push(wImg);
+                    done = true;
+                }
+                break;
+            }
+        }
+
+        if (done) {
+            break;
         }
     }
 }
@@ -81,7 +123,7 @@ async function next() {
     try {
         loading.value = true;
         const wImg = queue.value[0];
-        currentImg.value = wImg.url;
+        currentImg.value = wImg;
         let outputMsg = `The image from category ${JSON.stringify(wImg.category)} starts to show: `;
         outputMsg += `<a href="${'https://commons.wikimedia.org/wiki/' + wImg.file}" target="_blank">${
             wImg.file
@@ -107,12 +149,7 @@ next();
 
 <template>
     <div>
-        <FullScreenImg
-            :width="width"
-            :height="height"
-            :src="currentImg"
-            @click="next"
-        ></FullScreenImg>
+        <FullScreenImg :w-img="currentImg"></FullScreenImg>
     </div>
 </template>
 

@@ -1,16 +1,27 @@
 <script setup lang="ts">
-import { ref, watch } from 'vue';
+import { useScreenOrientation, useWindowSize } from '@vueuse/core';
+import { computed, ref, watch } from 'vue';
+import { useSettings } from '../composables/useSettings.ts';
+import type { WikiImgExt } from '../core/WikiImgExt.ts';
 
-const props = defineProps<{ width: number; height: number; src: string }>();
+const props = defineProps<{ wImg: WikiImgExt | null }>();
 
 const emit = defineEmits(['click']);
 
+const windowSize = useWindowSize();
+
+const screenOrientation = useScreenOrientation();
+
+const src = computed(() => props.wImg?.url);
+
 const loading = ref(false);
 
+const settings = useSettings();
+
 watch(
-    () => props.src,
+    src,
     () => {
-        if (props.src) {
+        if (src.value) {
             loading.value = true;
         }
     },
@@ -20,6 +31,53 @@ watch(
 const handleLoad = () => {
     loading.value = false;
 };
+
+const rImg = computed(() => {
+    if (!props.wImg?.width || !props.wImg?.height) {
+        return null;
+    }
+
+    const r = props.wImg.width / props.wImg.height;
+
+    return r;
+});
+
+const rWin = computed(() => {
+    const r = windowSize.width.value / windowSize.height.value;
+
+    return r;
+});
+
+watch([rImg, rWin], () => {
+    if (!screenOrientation.isSupported) {
+        return;
+    }
+
+    if (settings.settings.value.orientation !== 'orientation-for-media') {
+        return;
+    }
+
+    const r1 = rImg.value;
+    const r2 = rWin.value;
+
+    if (!r1 || !r2) {
+        return;
+    }
+
+    if (Math.abs(r1 - r2) < 1e-5) {
+        return;
+    }
+
+    if ((r1 < 1 && r2 < 1) || (r1 > 1 && r2 > 1)) {
+        return;
+    }
+
+    if (screenOrientation.orientation.value?.startsWith('portrait')) {
+        screenOrientation.lockOrientation('landscape-primary');
+    } else if (screenOrientation.orientation.value?.startsWith('landscape')) {
+        screenOrientation.lockOrientation('portrait-primary');
+    }
+});
 </script>
 
 <template>
@@ -28,8 +86,8 @@ const handleLoad = () => {
     <img
         v-if="src"
         :src="src"
-        :width="width"
-        :height="height"
+        :width="windowSize.width.value"
+        :height="windowSize.height.value"
         @load="handleLoad"
         @click="emit('click')"
     />
